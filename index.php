@@ -19,6 +19,22 @@
 
         <ul>
             <li><a href="#">Home</a></li>
+            <li class="nav-item dropdown">
+                <!-- Anchor to Academic Programmes -->
+                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
+                   data-bs-toggle="dropdown" aria-expanded="false">
+                    About Us
+                </a>
+                <!-- Dropdown menu -->
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <!-- Specific programs linking to their respective pages -->
+                    <li><a class="dropdown-item" href="/certifications">Professional Certifications</a></li>
+                    <li><a class="dropdown-item" href="/it-skills">Technology and IT Skills</a></li>
+                    <li><a class="dropdown-item" href="/creative-arts">Creative Arts and Design</a></li>
+                    <li><a class="dropdown-item" href="/vocational-skills">Vocational and Technical Skills</a></li>
+                    <li><a class="dropdown-item" href="/business-training">Specialized Business Training</a></li>
+                </ul>
+            </li>
             <li><a href="#">About Us</a></li>
             <li class="nav-item dropdown">
                 <!-- Anchor to Academic Programmes -->
