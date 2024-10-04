@@ -18,13 +18,22 @@
         <li><a href="">Home</a></li>
         <li><a href="">About Us</a></li>
         <li><a href="">Academic Programmes</a>
-          <Ul >
-            <li> <a href=""> Professional Certifications</a></li>
-            <li> <a href=""> Technology and IT Skills</a></li>
-            <li> <a href=""> Creative Arts and Design</a></li>
-            <li> <a href=""> Vocational and Technical Skills</a></li>
-            <li> <a href=""> Specialized Business Training</a></li>
-          </Ul>
+        <div class="btn-group">
+  <button type="button" class="btn btn-danger">Courses</button>
+  <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="sr-only">Explore our programs</span>
+  </button>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="#">Professional Certifications</a>
+    <a class="dropdown-item" href="#">Technology and IT Skills</a>
+    <a class="dropdown-item" href="#">Creative Arts and Design</a>
+    <a class="dropdown-item" href="#">Vocational and Technical Skills</a>
+    <a class="dropdown-item" href="#"> Specialized Business Training</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="#">Separated link</a>
+  </div>
+</div>
+      
         </li>
         <li><a href="">Blog</a></li>
         <li><a href="">Admission</a></li>
