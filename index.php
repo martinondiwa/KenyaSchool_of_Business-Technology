@@ -73,6 +73,23 @@
                    
                 </ul>
             </li>
+            <li class="nav-item dropdown">
+                <!-- Anchor to Academic Programmes -->
+                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
+                   data-bs-toggle="dropdown" aria-expanded="false">
+                    Research
+                </a>
+                <!-- Dropdown menu -->
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <!-- Specific programs linking to their respective pages -->
+                    <li><a class="dropdown-item" href="/certifications">Research Innovation and Enterprise</a></li>
+                    <li><a class="dropdown-item" href="/it-skills">Overview</a></li>
+                    <li><a class="dropdown-item" href="/creative-arts">Awards, Grants & Ranking</a></li>
+                    <li><a class="dropdown-item" href="/vocational-skills">Collaborators & Partners</a></li>
+                    <li><a class="dropdown-item" href="/business-training">Research & Innovation Week</a></li>
+                   
+                </ul>
+            </li>
             <li><a href="#">Admission</a></li>
             <li><a href="#">Apply Online</a></li>
             <li><a href="#" class="btn btn-success">Portal</a></li>
