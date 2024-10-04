@@ -1,41 +1,100 @@
-*{
+* {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
-nav
-{
+
+nav {
     position: fixed;
-    background-color: skyblue;
+    background-color: #2E8BC0; /* Darker Sky Blue */
     height: 60px;
     width: 100%;
     z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
 }
 
-.logo{
-    font-size: 25px;
-    position: relative;
-    left: 5;
-    color: aliceblue;
+.logo {
+    font-size: 24px;
+    color: white;
     font-weight: bold;
-    line-height: 70px;
-    
+    line-height: 60px;
 }
 
-ul{
-    position: relative;
-    float: right;
-    margin-right: 20px;
+ul {
+    display: flex;
+    align-items: center;
 }
 
 ul li {
-    display: inline-block;
-    line-height: 70px;
-    margin: 0.5px;
+    list-style: none;
+    margin-left: 20px;
+    position: relative;
 }
 
-  ul li a
-    {
-        text-decoration: none;
-        color: azure;
-        font-size: 17px;
-    }
+ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    transition: color 0.3s ease;
+    padding: 10px;
+}
+
+ul li a:hover {
+    color: #FFD700; /* Gold color for hover effect */
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+/* Dropdown styling */
+.dropdown .btn-secondary {
+    background-color: #3A7CA5;
+    color: white;
+    border: none;
+    font-size: 17px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.dropdown .dropdown-menu {
+    background-color: #3A7CA5;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.dropdown-item {
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-item:hover {
+    background-color: #FFD700; /* Hover gold effect */
+    color: black;
+}
+
+/* Responsive dropdown alignment */
+.dropdown-menu {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    display: none;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
