@@ -91,6 +91,23 @@
                 </ul>
             </li>
             <li><a href="#">Admission</a></li>
+            <li class="nav-item dropdown">
+                <!-- Anchor to Academic Programmes -->
+                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
+                   data-bs-toggle="dropdown" aria-expanded="false">
+                    New Student Info
+                </a>
+                <!-- Dropdown menu -->
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <!-- Specific programs linking to their respective pages -->
+                    <li><a class="dropdown-item" href="/certifications">Access to funding</a></li>
+                    <li><a class="dropdown-item" href="/it-skills">Commencement & Reporting Dates</a></li>
+                    <li><a class="dropdown-item" href="/creative-arts">Information for New Students</a></li>
+                    <li><a class="dropdown-item" href="/vocational-skills">International Students</a></li>
+                    <li><a class="dropdown-item" href="/business-training">Student Accommodation</a></li>
+                   
+                </ul>
+            </li>
             <li><a href="#">Apply Online</a></li>
             <li><a href="#" class="btn btn-success">Portal</a></li>
         </ul>
