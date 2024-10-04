@@ -21,22 +21,20 @@
             <li><a href="">Home</a></li>
             <li><a href="">About Us</a></li>
             <li>
-                <div class="btn-group">
-                    <button type="button" class="btn btn-danger">Academic Programmes</button>
-                    <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split"
+                <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <span class="sr-only">Explore our programs</span>
+                        Academic Programmes
                     </button>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Professional Certifications</a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" href="#">Professional Certifications</a>
                         <a class="dropdown-item" href="#">Technology and IT Skills</a>
                         <a class="dropdown-item" href="#">Creative Arts and Design</a>
                         <a class="dropdown-item" href="#">Vocational and Technical Skills</a>
                         <a class="dropdown-item" href="#"> Specialized Business Training</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Separated link</a>
                     </div>
                 </div>
+               
 
             </li>
             <li><a href="">Blog</a></li>
