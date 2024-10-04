@@ -18,7 +18,7 @@
         </label>
 
         <ul>
-            <li><a href="#">Home</a></li>
+        
             <li class="nav-item dropdown">
                 <!-- Anchor to Academic Programmes -->
                 <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton"
