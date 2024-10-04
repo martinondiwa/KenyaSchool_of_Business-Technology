@@ -55,7 +55,7 @@
                     <li><a class="dropdown-item" href="/business-training">Specialized Business Training</a></li>
                 </ul>
             </li>
-            <li><a href="#">Blog</a></li>
+
             <li class="nav-item dropdown">
                 <!-- Anchor to Academic Programmes -->
                 <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
