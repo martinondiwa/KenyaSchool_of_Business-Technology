@@ -23,6 +23,13 @@ nav {
     line-height: 40px;
 }
 
+.logo-img
+{
+height: 20px;
+width: 20px;
+border: radius 15px;
+}
+
 ul {
     display: flex;
     align-items: center;

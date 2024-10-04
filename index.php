@@ -14,7 +14,7 @@
 <body>
     <Nav>
         <label class="logo">
-            <img src="./images/logoo.PNG" alt="">
+            <img class="logo-img" src="./images/logoo.PNG" alt="">
         </label>
 
         <ul>
