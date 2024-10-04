@@ -21,8 +21,8 @@
             <li><a href="#">Home</a></li>
             <li class="nav-item dropdown">
                 <!-- Anchor to Academic Programmes -->
-                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
-                   data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton"
+                    data-bs-toggle="dropdown" aria-expanded="false">
                     About Us
                 </a>
                 <!-- Dropdown menu -->
@@ -38,11 +38,11 @@
                 </ul>
             </li>
             <li>
-                
+
             <li class="nav-item dropdown">
                 <!-- Anchor to Academic Programmes -->
-                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
-                   data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton"
+                    data-bs-toggle="dropdown" aria-expanded="false">
                     Academic Programmes
                 </a>
                 <!-- Dropdown menu -->
@@ -58,8 +58,8 @@
 
             <li class="nav-item dropdown">
                 <!-- Anchor to Academic Programmes -->
-                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
-                   data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton"
+                    data-bs-toggle="dropdown" aria-expanded="false">
                     Media Desk
                 </a>
                 <!-- Dropdown menu -->
@@ -70,13 +70,13 @@
                     <li><a class="dropdown-item" href="/creative-arts">Gallary</a></li>
                     <li><a class="dropdown-item" href="/vocational-skills">Newsletters</a></li>
                     <li><a class="dropdown-item" href="/business-training">FAQs</a></li>
-                   
+
                 </ul>
             </li>
             <li class="nav-item dropdown">
                 <!-- Anchor to Academic Programmes -->
-                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
-                   data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton"
+                    data-bs-toggle="dropdown" aria-expanded="false">
                     Research
                 </a>
                 <!-- Dropdown menu -->
@@ -87,14 +87,14 @@
                     <li><a class="dropdown-item" href="/creative-arts">Awards, Grants & Ranking</a></li>
                     <li><a class="dropdown-item" href="/vocational-skills">Collaborators & Partners</a></li>
                     <li><a class="dropdown-item" href="/business-training">Research & Innovation Week</a></li>
-                   
+
                 </ul>
             </li>
             <li><a href="#">Admission</a></li>
             <li class="nav-item dropdown">
                 <!-- Anchor to Academic Programmes -->
-                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
-                   data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton"
+                    data-bs-toggle="dropdown" aria-expanded="false">
                     New Student Info
                 </a>
                 <!-- Dropdown menu -->
@@ -105,7 +105,7 @@
                     <li><a class="dropdown-item" href="/creative-arts">Information for New Students</a></li>
                     <li><a class="dropdown-item" href="/vocational-skills">International Students</a></li>
                     <li><a class="dropdown-item" href="/business-training">Student Accommodation</a></li>
-                   
+
                 </ul>
             </li>
             <li><a href="#">Apply Online</a></li>
@@ -114,7 +114,7 @@
     </Nav>
 
     <div class="Section1">
-      <image class="mainimage" src="./images/Classroom.PNG"/>
+        <img class="mainimage" src="./images/classrr.PNG" alt="Classroom Image" />
     </div>
 
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
