@@ -26,8 +26,8 @@
           </Ul>
         </li>
         <li><a href="">Blog</a></li>
-        <li><a href="">Contact US</a></li>
         <li><a href="">Admission</a></li>
+        <li><a href="">Contact Us</a></li>
         <li><a href="">login</a></li>
     </ul>
 </Nav>
