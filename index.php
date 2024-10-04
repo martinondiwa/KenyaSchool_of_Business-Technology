@@ -18,8 +18,8 @@
         </label>
 
         <ul>
-            <li><a href="">Home</a></li>
-            <li><a href="">About Us</a></li>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
             <li>
                 <div class="dropdown">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
@@ -27,20 +27,18 @@
                         Academic Programmes
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a class="dropdown-item" href="#">Professional Certifications</a>
+                        <a class="dropdown-item" href="#">Professional Certifications</a>
                         <a class="dropdown-item" href="#">Technology and IT Skills</a>
                         <a class="dropdown-item" href="#">Creative Arts and Design</a>
                         <a class="dropdown-item" href="#">Vocational and Technical Skills</a>
-                        <a class="dropdown-item" href="#"> Specialized Business Training</a>
+                        <a class="dropdown-item" href="#">Specialized Business Training</a>
                     </div>
                 </div>
-               
-
             </li>
-            <li><a href="">Blog</a></li>
-            <li><a href="">Admission</a></li>
-            <li><a href="">Apply Online</a></li>
-            <li><a href="" class="btn btn-success">Portal</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Admission</a></li>
+            <li><a href="#">Apply Online</a></li>
+            <li><a href="#" class="btn btn-success">Portal</a></li>
         </ul>
     </Nav>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
