@@ -37,7 +37,8 @@
                     <li><a class="dropdown-item" href="/business-training">Contacts</a></li>
                 </ul>
             </li>
-            <li><a href="#">About Us</a></li>
+            <li>
+                
             <li class="nav-item dropdown">
                 <!-- Anchor to Academic Programmes -->
                 <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
@@ -55,6 +56,23 @@
                 </ul>
             </li>
             <li><a href="#">Blog</a></li>
+            <li class="nav-item dropdown">
+                <!-- Anchor to Academic Programmes -->
+                <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton" 
+                   data-bs-toggle="dropdown" aria-expanded="false">
+                    Media Desk
+                </a>
+                <!-- Dropdown menu -->
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <!-- Specific programs linking to their respective pages -->
+                    <li><a class="dropdown-item" href="/certifications">News</a></li>
+                    <li><a class="dropdown-item" href="/it-skills">Events</a></li>
+                    <li><a class="dropdown-item" href="/creative-arts">Gallary</a></li>
+                    <li><a class="dropdown-item" href="/vocational-skills">Newsletters</a></li>
+                    <li><a class="dropdown-item" href="/business-training">FAQs</a></li>
+                   
+                </ul>
+            </li>
             <li><a href="#">Admission</a></li>
             <li><a href="#">Apply Online</a></li>
             <li><a href="#" class="btn btn-success">Portal</a></li>
