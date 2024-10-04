@@ -107,10 +107,10 @@
 
     <div>
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-5">
                 <img src="./images/image.PNG" alt="">
             </div>
-            <div class="col-md-6">
+            <div class="col-md-7">
                 <h1>Welcome to Kenya School of Business & Technology</h1>
                 <p>At Kenya School of Business & Technology, we are committed to shaping the future of business and
                     technology leaders through innovative learning experiences. Our cutting-edge curriculum blends
