@@ -11,6 +11,15 @@
     <label>
         Nairobi School of Business and Technology
     </label>
+
+    <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">Home</a></li>
+        <li><a href="">Home</a></li>
+        <li><a href="">Home</a></li>
+        <li><a href="">Home</a></li>
+        <li><a href="">Home</a></li>
+    </ul>
 </Nav>
 
 </body>
