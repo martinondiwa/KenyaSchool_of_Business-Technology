@@ -114,6 +114,7 @@
     </Nav>
 
     <div class="Section1">
+        <label>We Taech Students with Care</label>
         <img class="mainimage" src="./images/classrr.PNG" alt="Classroom Image" />
     </div>
 
