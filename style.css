@@ -20,3 +20,8 @@ nav
     line-height: 70px;
     
 }
+
+ul {
+    position: relative;
+    float: right;
+}
