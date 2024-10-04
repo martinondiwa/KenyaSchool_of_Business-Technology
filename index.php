@@ -121,9 +121,11 @@
     <div>
         <div class="row">
             <div class="col-md-4">
-                <img src="" alt="">
+                <img src="/images/image.PNG" alt="">
             </div>
-            <div class="col-md-8"></div>
+            <div class="col-md-8">
+                <h1>Welcome to Kenya School of Business & Technology</h1>
+            </div>
         </div>
     </div>
 
