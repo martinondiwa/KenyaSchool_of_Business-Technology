@@ -98,3 +98,9 @@ ul li a:hover {
 .dropdown:hover .dropdown-menu {
     display: block;
 }
+
+.main_img
+ {
+width: 100%;
+width: 300px;
+}
