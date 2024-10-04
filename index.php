@@ -100,6 +100,7 @@
                 <!-- Dropdown menu -->
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                     <!-- Specific programs linking to their respective pages -->
+                    <li><a class="dropdown-item" href="/certifications">Online Application</a></li>
                     <li><a class="dropdown-item" href="/certifications">Access to funding</a></li>
                     <li><a class="dropdown-item" href="/it-skills">Commencement & Reporting Dates</a></li>
                     <li><a class="dropdown-item" href="/creative-arts">Information for New Students</a></li>
@@ -108,7 +109,7 @@
 
                 </ul>
             </li>
-            <li><a href="#">Apply Online</a></li>
+       
             <li><a href="#" class="btn btn-success">Portal</a></li>
         </ul>
     </Nav>
@@ -120,10 +121,10 @@
 
     <div>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <img src="./images/image.PNG" alt="">
             </div>
-            <div class="col-md-8">
+            <div class="col-md-6">
                 <h1>Welcome to Kenya School of Business & Technology</h1>
                 <p>At Kenya School of Business & Technology, we are committed to shaping the future of business and technology leaders through innovative learning experiences. Our cutting-edge curriculum blends practical skills with industry insights, equipping students with the tools they need to excel in today's fast-evolving digital landscape. Whether you're seeking to advance your career in business management, IT, data science, or entrepreneurship, our expert faculty, state-of-the-art facilities, and hands-on training programs will provide you with the knowledge and confidence to thrive. Join us and be part of a dynamic community that fosters innovation, growth, and real-world success.</p>
             </div>
