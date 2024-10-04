@@ -40,7 +40,7 @@
             <li><a href="">Blog</a></li>
             <li><a href="">Admission</a></li>
             <li><a href="">Apply Online</a></li>
-            <li><a href="">Portal</a></li>
+            <li><a href="" class="btn btn-success">Portal</a></li>
         </ul>
     </Nav>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
