@@ -118,6 +118,15 @@
         <img class="mainimage" src="./images/classrr.PNG" alt="Classroom Image" />
     </div>
 
+    <div>
+        <div class="row">
+            <div class="col-md-4">
+                <img src="" alt="">
+            </div>
+            <div class="col-md-8"></div>
+        </div>
+    </div>
+
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
