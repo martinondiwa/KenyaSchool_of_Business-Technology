@@ -18,7 +18,7 @@
         </label>
 
         <ul>
-        
+
             <li class="nav-item dropdown">
                 <!-- Anchor to Academic Programmes -->
                 <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuButton"
@@ -99,30 +99,56 @@
             <li><a href="#" class="btn btn-success">Portal</a></li>
         </ul>
     </Nav>
-
-    <div class="Section1">
-        <label class="img_text">We Teach Students with Care</label>
-        <img class="mainimage" src="./images/classrr.PNG" alt="Classroom Image" />
-    </div>
-
-    <div>
-        <div class="row">
-            <div class="col-md-5">
-                <img src="./images/image.PNG" alt="">
-            </div>
-            <div class="col-md-7">
-                <h1>Welcome to Kenya School of Business & Technology</h1>
-                <p>At Kenya School of Business & Technology, we are committed to shaping the future of business and
-                    technology leaders through innovative learning experiences. Our cutting-edge curriculum blends
-                    practical skills with industry insights, equipping students with the tools they need to excel in
-                    today's fast-evolving digital landscape. Whether you're seeking to advance your career in business
-                    management, IT, data science, or entrepreneurship, our expert faculty, state-of-the-art facilities,
-                    and hands-on training programs will provide you with the knowledge and confidence to thrive. Join us
-                    and be part of a dynamic community that fosters innovation, growth, and real-world success.</p>
+    <section>
+        <div class="Section1">
+            <label class="img_text">We Teach Students with Care</label>
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img class="d-block w-100" src="./images/classrr.PNG" alt="First slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="./images/Classroom.PNG" alt="Second slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block w-100" src="./images/image.PNG" alt="Third slide">
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
             </div>
         </div>
-    </div>
 
+        <div>
+            <div class="row">
+
+                <div class="col-md-7">
+                    <h1>Welcome to Kenya School of Business & Technology</h1>
+                    <p>At Kenya School of Business & Technology, we are committed to shaping the future of business and
+                        technology leaders through innovative learning experiences. Our cutting-edge curriculum blends
+                        practical skills with industry insights, equipping students with the tools they need to excel in
+                        today's fast-evolving digital landscape. Whether you're seeking to advance your career in
+                        business
+                        management, IT, data science, or entrepreneurship, our expert faculty, state-of-the-art
+                        facilities,
+                        and hands-on training programs will provide you with the knowledge and confidence to thrive.
+                        Join us
+                        and be part of a dynamic community that fosters innovation, growth, and real-world success.</p>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
