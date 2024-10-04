@@ -17,9 +17,9 @@
     <ul >
         <li><a href="">Home</a></li>
         <li><a href="">About Us</a></li>
-        <li><a href="">Academic Programmes</a>
+        <li>
         <div class="btn-group">
-  <button type="button" class="btn btn-danger">Courses</button>
+  <button type="button" class="btn btn-danger">Academic Programmes</button>
   <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     <span class="sr-only">Explore our programs</span>
   </button>
