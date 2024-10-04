@@ -26,3 +26,9 @@ nav
     float: right;
     margin-right: 20px;
 }
+
+ul li {
+    display: inline-block;
+    line-height: 70px;
+    margin: 0.5px;
+}
