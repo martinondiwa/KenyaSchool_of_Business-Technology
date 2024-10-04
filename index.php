@@ -28,7 +28,7 @@
                 <!-- Dropdown menu -->
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                     <!-- Specific programs linking to their respective pages -->
-                    <li><a class="dropdown-item" href="/certifications">Governance</a></li>
+                    <li><a class="dropdown-item" href="/certifications">Home</a></li>
                     <li><a class="dropdown-item" href="/it-skills">Explore KSBT</a></li>
                     <li><a class="dropdown-item" href="/creative-arts">Staff</a></li>
                     <li><a class="dropdown-item" href="/vocational-skills">Students</a></li>
