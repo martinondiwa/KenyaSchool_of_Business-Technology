@@ -107,3 +107,11 @@ ul li a:hover {
 {
     padding-top: 70px;
 }
+
+.img_text
+{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    color:whitesmoke;
+}
