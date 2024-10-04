@@ -6,7 +6,15 @@ nav
 {
     position: fixed;
     background-color: skyblue;
-    height: 50px;
+    height: 60px;
     width: 100%;
     z-index: 1;
+}
+
+.logo{
+    font-size: 25px;
+    position: relative;
+    left: 5;
+    color: aliceblue;
+    font-weight: bold;
 }

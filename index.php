@@ -9,7 +9,7 @@
 <body>
 
 <Nav>
-    <label>
+    <label class="logo">
         Nairobi School of Business and Technology
     </label>
 
