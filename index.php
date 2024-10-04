@@ -28,11 +28,13 @@
                 <!-- Dropdown menu -->
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                     <!-- Specific programs linking to their respective pages -->
-                    <li><a class="dropdown-item" href="/certifications">Professional Certifications</a></li>
-                    <li><a class="dropdown-item" href="/it-skills">Technology and IT Skills</a></li>
-                    <li><a class="dropdown-item" href="/creative-arts">Creative Arts and Design</a></li>
-                    <li><a class="dropdown-item" href="/vocational-skills">Vocational and Technical Skills</a></li>
-                    <li><a class="dropdown-item" href="/business-training">Specialized Business Training</a></li>
+                    <li><a class="dropdown-item" href="/certifications">Governance</a></li>
+                    <li><a class="dropdown-item" href="/it-skills">Explore KSBT</a></li>
+                    <li><a class="dropdown-item" href="/creative-arts">Staff</a></li>
+                    <li><a class="dropdown-item" href="/vocational-skills">Students</a></li>
+                    <li><a class="dropdown-item" href="/business-training">Alumni</a></li>
+                    <li><a class="dropdown-item" href="/business-training">Jobs</a></li>
+                    <li><a class="dropdown-item" href="/business-training">Contacts</a></li>
                 </ul>
             </li>
             <li><a href="#">About Us</a></li>
