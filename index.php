@@ -114,7 +114,7 @@
     </Nav>
 
     <div class="Section1">
-      <image src=""/>
+      <image src="./images/image.PNG"/>
     </div>
 
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
