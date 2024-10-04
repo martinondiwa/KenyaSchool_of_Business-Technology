@@ -13,11 +13,11 @@
         Nairobi School of Business and Technology
     </label>
 
-    <ul>
+    <ul class="ul-m">
         <li><a href="">Home</a></li>
         <li><a href="">About Us</a></li>
         <li><a href="">Academic Programmes</a>
-          <Ul>
+          <Ul >
             <li> <a href=""> Professional Certifications</a></li>
             <li> <a href=""> Technology and IT Skills</a></li>
             <li> <a href=""> Creative Arts and Design</a></li>
