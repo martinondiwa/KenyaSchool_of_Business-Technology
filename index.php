@@ -6,6 +6,12 @@
     <title>Nairobi School of Business and Technology</title>
 </head>
 <body>
-    <h1>Welcome to Nairobi School of Business and Technlogy</h1>
+
+<Nav>
+    <label>
+        Nairobi School of Business and Technology
+    </label>
+</Nav>
+
 </body>
 </html>
