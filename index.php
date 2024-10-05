@@ -149,6 +149,22 @@
             </div>
         </div>
     </section>
+
+    <section id="home">
+        <div class="container my-4">
+            <h2>Welcome to Kenya School of Business & Technology (KSBT)</h2>
+            <p>Located in the heart of Nairobi’s CBD, KSBT is a leading institution dedicated to empowering students
+                with cutting-edge technology skills and business acumen. Our goal is to mold future innovators, tech
+                entrepreneurs, and business leaders who can drive digital transformation in Africa and beyond.</p>
+            <p>At KSBT, we combine world-class education, hands-on experience, and industry partnerships to prepare you
+                for the dynamic world of business and technology. Explore our diverse programs and join us in shaping
+                the future of tech-driven business solutions.</p>
+            <a href="/certifications" class="btn btn-primary">Get Started</a>
+        </div>
+    </section>
+
+
+    
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
