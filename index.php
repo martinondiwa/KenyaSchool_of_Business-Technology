@@ -163,8 +163,19 @@
         </div>
     </section>
 
+    <section id="explore">
+        <div class="container my-4">
+            <h2>Explore KSBT: Where Business Meets Technology</h2>
+            <p>At KSBT, we offer a variety of programs that blend business strategies with advanced technological
+                skills. Whether you're passionate about programming, digital marketing, data science, or
+                entrepreneurship, our courses are designed to equip you with the knowledge and expertise you need to
+                excel in today's competitive job market.</p>
+            <p>Explore our faculties, from IT & Computing to Business Management, and discover how you can become a
+                leader in the ever-evolving tech landscape.</p>
+            <a href="/it-skills" class="btn btn-outline-primary">Learn More</a>
+        </div>
+    </section>
 
-    
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
