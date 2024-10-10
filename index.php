@@ -25,7 +25,7 @@
                     data-bs-toggle="dropdown" aria-expanded="false">
                     About Us
                 </a>
-                <!-- Dropdown menu -->
+                <!-- Dropdown  -->
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                     <!-- Specific programs linking to their respective pages -->
                     <li><a class="dropdown-item" href="/certifications">Home</a></li>
