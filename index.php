@@ -27,7 +27,7 @@
                 </a>
                 <!-- Dropdown  -->
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <!-- Specific programs linking to their respective pages -->
+                    <!-- Specific programs linking to its respective pages -->
                     <li><a class="dropdown-item" href="/certifications">Home</a></li>
                     <li><a class="dropdown-item" href="/it-skills">Explore KSBT</a></li>
                     <li><a class="dropdown-item" href="/creative-arts">Staff</a></li>
