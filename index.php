@@ -247,8 +247,134 @@ img {
                     </div>
                 </section>
 
-
             </div>
+
+            <!--Footer-->
+            <footer class="text-light py-4" style="background-color: rgb(44, 61, 71)">
+                <div class="footer-top">
+                    <div class="container">
+                        <div class="row justify-content-between">
+                            <!-- Logo & Description Column -->
+                            <div class="col-lg-3 col-sm-6 mb-4">
+                                <a href="#">
+                                    <img style="border-radius: 40% !important" src="./assets/images/logo.jpeg"
+                                        alt="Subomap Logo" class="mb-3" />
+                                </a>
+                                <div class="line mb-2" style="background-color: rgb(0, 153, 255)"></div>
+                                <p style="color: white">
+                                    Delivering precision and innovation in land surveying across
+                                    Kenya – Subomap Geosystems Africa.
+                                </p>
+                                <div class="social-icons mt-3">
+                                    <a href="#" class="me-2 social-icon" style="color: white"><i
+                                            class="ri-twitter-x-line"></i></a>
+                                    <a href="#" class="me-2 social-icon" style="color: white"><i
+                                            class="ri-facebook-circle-fill"></i></a>
+                                    <a href="#" class="me-2 social-icon" style="color: white"><i
+                                            class="ri-linkedin-box-fill"></i></a>
+                                    <a href="#" class="social-icon" style="color: white"><i
+                                            class="ri-instagram-line"></i></a>
+                                </div>
+                            </div>
+
+                            <!-- Services Column -->
+                            <div class="col-lg-2 col-sm-6 mb-4">
+                                <h5 class="mb-3 service-heading" style="color: rgb(219, 91, 32)">
+                                    Company
+                                </h5>
+                                <div class="line mb-2" style="background-color: white"></div>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="#" class="service-link" style="color: white">Cadastral & Boundary
+                                            Surveys</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="service-link" style="color: white">Topographic Mapping &
+                                            Analysis</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="service-link" style="color: white">3D Modeling & Data
+                                            Collection</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="service-link" style="color: white">Engineering & Construction
+                                            Surveys</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="service-link" style="color: white">Subdivision & Property
+                                            Surveys</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="service-link" style="color: white">Carbon Mapping &
+                                            Environmental Impact Analysis</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="service-link" style="color: white">Web & Graphic Design</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- About Column -->
+                            <div class="col-lg-2 col-sm-6 mb-4">
+                                <h5 class="mb-3 about-heading" style="color: rgb(219, 91, 32)">
+                                    Links
+                                </h5>
+                                <div class="line mb-2" style="background-color: white"></div>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="#" class="about-link" style="color: white">Courses</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="about-link" style="color: white">Events</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="about-link" style="color: white">Gallary</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="about-link" style="color: white">FAQs</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Contact Column -->
+                            <div class="col-lg-3 col-sm-6 mb-4">
+                                <h5 class="mb-3 contact-heading" style="color: rgb(219, 91, 32)">
+                                    Recommended
+                                </h5>
+                                <div class="line mb-2" style="background-color: white"></div>
+                                <ul class="list-unstyled">
+                                    <li style="color: white">
+                                        <strong>Location:</strong> Nairobi CBD, Railways Center
+                                    </li>
+                                    <li style="color: white">
+                                        <strong>Website:</strong>
+                                        <a href="#" style="color: white"
+                                            class="contact-link">www.subomapgeosystems.com</a>
+                                    </li>
+                                    <li style="color: white">
+                                        <p><strong>Mobile:</strong> 0745 344 81</p>
+                                        <p>0797073761</p>
+                                        <p>0794815207</p>
+                                    </li>
+                                    <li style="color: white"><strong>Email:</strong></li>
+                                    <ul>
+                                        <li>
+                                            <a href="mailto:admin@subomap.org" class="contact-link"
+                                                style="color: white">admin@subomapgeosystems.com</a>
+                                        </li>
+                                        <li>
+                                            <a href="mailto:sales@subomap.org" class="contact-link"
+                                                style="color: white">sales@subomapgeosystems.com
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+
 
 
             <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
