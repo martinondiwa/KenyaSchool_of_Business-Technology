@@ -249,7 +249,7 @@ img {
 
             </div>
 
-            <footer>
+            <footer style="background-color: gray">
                 <div>
                     <div>
                         <p>Empowering the next generation with essential skills and training for success</p>
