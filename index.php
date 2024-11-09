@@ -275,6 +275,15 @@ img {
                         <li><a href="#" class="service-link" style="color: white;">FAQs</a></li> <br>
                         </ul>
                     </div>
+<!--T skills-->      
+                   <div>
+                    <p><strong>Recommended Programs</strong></p>
+                   <ul>
+                        <li><a href="#" class="about-link" style="color: white;">Technical Skills Training</a></li>
+                        <li><a href="#" class="about-link" style="color: white;">Digital Entrepreneurship</a></li>
+                        <li><a href="#" class="about-link" style="color: white;">Software Engineering Bootcamp</a></li>
+                    </ul>
+                   </div>
                 </div>
             </footer>
 
