@@ -249,7 +249,7 @@ img {
 
             </div>
 
-            <!--Footer-->
+            <!-- Footer -->
             <footer class="text-light py-4" style="background-color: rgb(44, 61, 71)">
                 <div class="footer-top">
                     <div class="container">
@@ -257,13 +257,13 @@ img {
                             <!-- Logo & Description Column -->
                             <div class="col-lg-3 col-sm-6 mb-4">
                                 <a href="#">
-                                    <img style="border-radius: 40% !important" src="./images/logoo" alt=""
+                                    <img style="border-radius: 40% !important" src="./images/logo" alt=""
                                         class="mb-3" />
                                 </a>
                                 <div class="line mb-2" style="background-color: rgb(0, 153, 255)"></div>
                                 <p style="color: white">
-                                    Delivering precision and innovation in land surveying across
-                                    Kenya – Subomap Geosystems Africa.
+                                    Empowering the next generation with essential skills and training for
+                                    success 
                                 </p>
                                 <div class="social-icons mt-3">
                                     <a href="#" class="me-2 social-icon" style="color: white"><i
@@ -277,7 +277,7 @@ img {
                                 </div>
                             </div>
 
-                            <!-- Services Column -->
+                            <!-- Company Column -->
                             <div class="col-lg-2 col-sm-6 mb-4">
                                 <h5 class="mb-3 service-heading" style="color: rgb(219, 91, 32)">
                                     Company
@@ -285,25 +285,24 @@ img {
                                 <div class="line mb-2" style="background-color: white"></div>
                                 <ul class="list-unstyled">
                                     <li>
-                                        <a href="#" class="service-link" style="color: white">About</a>
+                                        <a href="#" class="service-link" style="color: white">About Us</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="service-link" style="color: white">Blog</a>
+                                        <a href="#" class="service-link" style="color: white">Our Blog</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="service-link" style="color: white">Join</a>
+                                        <a href="#" class="service-link" style="color: white">Careers</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="service-link" style="color: white">Contact</a>
+                                        <a href="#" class="service-link" style="color: white">Contact Us</a>
                                     </li>
-
-
+                                </ul>
                             </div>
 
-                            <!-- About Column -->
+                            <!-- Courses & Events Column -->
                             <div class="col-lg-2 col-sm-6 mb-4">
                                 <h5 class="mb-3 about-heading" style="color: rgb(219, 91, 32)">
-                                    Links
+                                    Explore
                                 </h5>
                                 <div class="line mb-2" style="background-color: white"></div>
                                 <ul class="list-unstyled">
@@ -311,10 +310,10 @@ img {
                                         <a href="#" class="about-link" style="color: white">Courses</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="about-link" style="color: white">Events</a>
+                                        <a href="#" class="about-link" style="color: white">Workshops</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="about-link" style="color: white">Gallary</a>
+                                        <a href="#" class="about-link" style="color: white">Gallery</a>
                                     </li>
                                     <li>
                                         <a href="#" class="about-link" style="color: white">FAQs</a>
@@ -322,23 +321,24 @@ img {
                                 </ul>
                             </div>
 
-                            <!-- Contact Column -->
+                            <!-- Recommended Programs Column -->
                             <div class="col-lg-3 col-sm-6 mb-4">
                                 <h5 class="mb-3 contact-heading" style="color: rgb(219, 91, 32)">
-                                    Recommended
+                                    Recommended Programs
                                 </h5>
                                 <div class="line mb-2" style="background-color: white"></div>
                                 <ul class="list-unstyled">
                                     <li>
-                                        <a href="#" class="about-link" style="color: white">Technical skills</a>
+                                        <a href="#" class="about-link" style="color: white">Technical Skills
+                                            Training</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="about-link" style="color: white">Digital Entreprenuership</a>
+                                        <a href="#" class="about-link" style="color: white">Digital Entrepreneurship</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="about-link" style="color: white">Software Engineering</a>
+                                        <a href="#" class="about-link" style="color: white">Software Engineering
+                                            Bootcamp</a>
                                     </li>
-                                    </ul>
                                 </ul>
                             </div>
                         </div>
