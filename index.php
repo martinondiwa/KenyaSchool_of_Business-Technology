@@ -257,8 +257,8 @@ img {
                             <!-- Logo & Description Column -->
                             <div class="col-lg-3 col-sm-6 mb-4">
                                 <a href="#">
-                                    <img style="border-radius: 40% !important" src="./images/logoo"
-                                        alt="" class="mb-3" />
+                                    <img style="border-radius: 40% !important" src="./images/logoo" alt=""
+                                        class="mb-3" />
                                 </a>
                                 <div class="line mb-2" style="background-color: rgb(0, 153, 255)"></div>
                                 <p style="color: white">
@@ -296,8 +296,8 @@ img {
                                     <li>
                                         <a href="#" class="service-link" style="color: white">Contact</a>
                                     </li>
-                                   
-                                    
+
+
                             </div>
 
                             <!-- About Column -->
@@ -329,30 +329,15 @@ img {
                                 </h5>
                                 <div class="line mb-2" style="background-color: white"></div>
                                 <ul class="list-unstyled">
-                                    <li style="color: white">
-                                        <strong>Location:</strong> Nairobi CBD, Railways Center
+                                    <li>
+                                        <a href="#" class="about-link" style="color: white">Technical skills</a>
                                     </li>
-                                    <li style="color: white">
-                                        <strong>Website:</strong>
-                                        <a href="#" style="color: white"
-                                            class="contact-link">www.subomapgeosystems.com</a>
+                                    <li>
+                                        <a href="#" class="about-link" style="color: white">Digital Entreprenuership</a>
                                     </li>
-                                    <li style="color: white">
-                                        <p><strong>Mobile:</strong> 0745 344 81</p>
-                                        <p>0797073761</p>
-                                        <p>0794815207</p>
+                                    <li>
+                                        <a href="#" class="about-link" style="color: white">Software Engineering</a>
                                     </li>
-                                    <li style="color: white"><strong>Email:</strong></li>
-                                    <ul>
-                                        <li>
-                                            <a href="mailto:admin@subomap.org" class="contact-link"
-                                                style="color: white">admin@subomapgeosystems.com</a>
-                                        </li>
-                                        <li>
-                                            <a href="mailto:sales@subomap.org" class="contact-link"
-                                                style="color: white">sales@subomapgeosystems.com
-                                            </a>
-                                        </li>
                                     </ul>
                                 </ul>
                             </div>
