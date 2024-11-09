@@ -118,7 +118,7 @@
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                     <!-- Specific programs linking to its respective pages -->
                     <li><a class="dropdown-item" href="/certifications">Home</a></li>
-                     <li><a class="dropdown-item" href="/creative-arts">Staff</a></li>
+                    <li><a class="dropdown-item" href="/creative-arts">Staff</a></li>
                     <li><a class="dropdown-item" href="/vocational-skills">Students</a></li>
                     <li><a class="dropdown-item" href="/business-training">Alumni</a></li>
                     <li><a class="dropdown-item" href="/business-training">Jobs</a></li>
@@ -221,9 +221,14 @@
         <div>
             <div class="row">
 
-                <div class="col-md-7">
-                    <h1>Leading Tech Solutions & Training Center in Nairobi, Kenya</h1>
-                    <p>At Kenya School of Business & Technology, we are committed to shaping the future of business and
+<!--ppp-->
+<div class="card">
+  <div class="card-header">
+    
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Leading Tech Solutions & Training Center in Nairobi, Kenya</h5>
+    <p class="card-text">At Kenya School of Business & Technology, we are committed to shaping the future of business and
                         technology leaders through innovative learning experiences. Our cutting-edge curriculum blends
                         practical skills with industry insights, equipping students with the tools they need to excel in
                         today's fast-evolving digital landscape. Whether you're seeking to advance your career in
@@ -233,10 +238,10 @@
                         and hands-on training programs will provide you with the knowledge and confidence to thrive.
                         Join us
                         and be part of a dynamic community that fosters innovation, growth, and real-world success.</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    
+  </div>
+</div>
+
     <!-- Po-->
     <Section>
         <div class="row">
@@ -244,9 +249,12 @@
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">OUR GOALS</h5>
-                        <p class="card-text">Train bright, passionate and talented youth with the most in-demand tech skills that will power the future. <br>
-                             Empower the next generation of technology innovators and entrepreneurs through challenging, practical, creative and real-world coursework. <br>
-                          Help them build impactful relationships with tech mentors, that support them at all stages of their career journey.</p>
+                        <p class="card-text">Train bright, passionate and talented youth with the most in-demand tech
+                            skills that will power the future. <br>
+                            Empower the next generation of technology innovators and entrepreneurs through challenging,
+                            practical, creative and real-world coursework. <br>
+                            Help them build impactful relationships with tech mentors, that support them at all stages
+                            of their career journey.</p>
                         <a href="#" class="btn btn-primary">What our Alumni Say</a>
                     </div>
                 </div>
@@ -255,10 +263,20 @@
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">WHAT WE DO</h5>
-                        <p class="card-text">Practical and Live-project Training: We believe in learning by doing. Our trainees learn skills by completing real-world projects. These projects give them experiences of actual tech working environments, which is why our graduates fit seamlessly in the industry, and hit the ground running. <br>
-Placement: Through our networks, trainees get opportunities for internship or full-time jobs to get them started in tech. Over 75% of our students are absorbed by partner companies in need of professionals with these rare tech-skills talent to work with them. <br>
-Mentorship: Our mentorship program focuses on supporting learners improve on soft skills and other life skills. We undertake mentorship support to address transition from training to entrepreneurship and formal employment trainees. Luckily, our instructors have experience and are technology experts already working in the industry. Through our incubation programs, led by industry experts, we help our trainees understand how to exploit the enormous opportunities available to them in the tech space.
-Tech solutions & Training</p>
+                        <p class="card-text">Practical and Live-project Training: We believe in learning by doing. Our
+                            trainees learn skills by completing real-world projects. These projects give them
+                            experiences of actual tech working environments, which is why our graduates fit seamlessly
+                            in the industry, and hit the ground running. <br>
+                            Placement: Through our networks, trainees get opportunities for internship or full-time jobs
+                            to get them started in tech. Over 75% of our students are absorbed by partner companies in
+                            need of professionals with these rare tech-skills talent to work with them. <br>
+                            Mentorship: Our mentorship program focuses on supporting learners improve on soft skills and
+                            other life skills. We undertake mentorship support to address transition from training to
+                            entrepreneurship and formal employment trainees. Luckily, our instructors have experience
+                            and are technology experts already working in the industry. Through our incubation programs,
+                            led by industry experts, we help our trainees understand how to exploit the enormous
+                            opportunities available to them in the tech space.
+                            Tech solutions & Training</p>
                         <a href="#" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
