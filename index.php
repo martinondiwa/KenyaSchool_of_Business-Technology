@@ -118,8 +118,7 @@
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                     <!-- Specific programs linking to its respective pages -->
                     <li><a class="dropdown-item" href="/certifications">Home</a></li>
-                    <li><a class="dropdown-item" href="/it-skills">Explore KSBT</a></li>
-                    <li><a class="dropdown-item" href="/creative-arts">Staff</a></li>
+                     <li><a class="dropdown-item" href="/creative-arts">Staff</a></li>
                     <li><a class="dropdown-item" href="/vocational-skills">Students</a></li>
                     <li><a class="dropdown-item" href="/business-training">Alumni</a></li>
                     <li><a class="dropdown-item" href="/business-training">Jobs</a></li>
@@ -223,7 +222,7 @@
             <div class="row">
 
                 <div class="col-md-7">
-                    <h1>Welcome to Kenya School of Business & Technology</h1>
+                    <h1>Leading Tech Solutions & Training Center in Nairobi, Kenya</h1>
                     <p>At Kenya School of Business & Technology, we are committed to shaping the future of business and
                         technology leaders through innovative learning experiences. Our cutting-edge curriculum blends
                         practical skills with industry insights, equipping students with the tools they need to excel in
@@ -244,9 +243,11 @@
             <div class="col-sm-6">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">OUR GOALS</h5>
+                        <p class="card-text">Train bright, passionate and talented youth with the most in-demand tech skills that will power the future. <br>
+                             Empower the next generation of technology innovators and entrepreneurs through challenging, practical, creative and real-world coursework. <br>
+                          Help them build impactful relationships with tech mentors, that support them at all stages of their career journey.</p>
+                        <a href="#" class="btn btn-primary">What our Alumni Say</a>
                     </div>
                 </div>
             </div>
