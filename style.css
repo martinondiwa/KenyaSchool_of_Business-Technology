@@ -264,3 +264,94 @@ img {
     background-color: #fff;
     color: #2575fc;
 }
+
+/* Basic footer styling */
+.site-footer {
+    background-color: #2a2a2a;
+    color: #ffffff;
+    padding: 40px 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Footer container */
+.footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Column layout */
+.footer .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+/* Company logo */
+.footer_widget img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Contact info list styling */
+.thim-header-info {
+    list-style: none;
+    padding: 0;
+}
+
+.thim-header-info li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.thim-header-info i {
+    color: #f9a825;
+    margin-right: 8px;
+}
+
+/* Social media links */
+.thim-social-media {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    padding: 0;
+}
+
+.thim-social-media li a {
+    color: #ffffff;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+.thim-social-media li a:hover {
+    color: #f9a825;
+}
+
+/* Section headings */
+.sc_heading h4.title {
+    font-size: 18px;
+    color: #f9a825;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Footer links */
+.thim-header-info a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.thim-header-info a:hover {
+    color: #f9a825;
+}
+
+/* Footer background color for smaller devices */
+@media (max-width: 768px) {
+    .footer .row {
+        flex-direction: column;
+        align-items: center;
+    }
+}

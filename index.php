@@ -249,44 +249,7 @@ img {
 
             </div>
 
-            <footer style="background-color: gray">
-                <div style="display: flex">
-<!--F Column-->
-                    <div  class="col-lg-3 col-sm-6 mb-4">
-                        <p>Empowering the next generation with essential skills and training for success</p>
-                    </div>
-<!--C Column-->
-                    <div  class="col-lg-3 col-sm-6 mb-4">
-                        <strong>Company</strong>
-                        <ul>
-                        <li><a href="#" class="service-link" style="color: white;">About Us</a></li> <br>
-                        <li><a href="#" class="service-link" style="color: white;">Our Blog</a></li> <br>
-                        <li><a href="#" class="service-link" style="color: white;">Careers</a></li> <br>
-                        <li><a href="#" class="service-link" style="color: white;">Contact Us</a></li> <br>
-                        </ul>
-                    </div>
-<!--C Column-->   
-                    <div  class="col-lg-3 col-sm-6 mb-4">
-                        <strong>Links</strong>
-                        <ul>
-                        <li><a href="#" class="service-link" style="color: white;">Courses</a></li> <br>
-                        <li><a href="#" class="service-link" style="color: white;">Events</a></li> <br>
-                        <li><a href="#" class="service-link" style="color: white;">Gallary</a></li> <br>
-                        <li><a href="#" class="service-link" style="color: white;">FAQs</a></li> <br>
-                        </ul>
-                    </div>
-<!--T skills-->      
-                   <div  class="col-lg-3 col-sm-6 mb-4">
-                    <p><strong>Recommended Programs</strong></p>
-                   <ul>
-                        <li><a href="#" class="about-link" style="color: white;">Technical Skills Training</a></li>
-                        <li><a href="#" class="about-link" style="color: white;">Digital Entrepreneurship</a></li>
-                        <li><a href="#" class="about-link" style="color: white;">Software Engineering Bootcamp</a></li>
-                    </ul>
-                   </div>
-                </div>
-            </footer>
-
+            
 
             <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
             <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
