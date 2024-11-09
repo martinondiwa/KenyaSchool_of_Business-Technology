@@ -149,7 +149,7 @@ img {
                 <li><a href="#">Academic Programmes</a></li>
                 <li><a href="#">Media Desk</a></li>
                 <li><a href="#">Admission</a></li>
-                <li><a href="#">New Student Info</a></li>
+                <li><a href="#">Enroll Today</a></li>
                 <li><a href="#" class="btn btn-success">Portal</a></li>
             </ul>
         </nav>
@@ -250,13 +250,13 @@ img {
             </div>
 
             <footer style="background-color: gray">
-                <div>
+                <div style="display: flex">
 <!--F Column-->
-                    <div>
+                    <div  class="col-lg-3 col-sm-6 mb-4">
                         <p>Empowering the next generation with essential skills and training for success</p>
                     </div>
 <!--C Column-->
-                    <div>
+                    <div  class="col-lg-3 col-sm-6 mb-4">
                         <strong>Company</strong>
                         <ul>
                         <li><a href="#" class="service-link" style="color: white;">About Us</a></li> <br>
@@ -266,7 +266,7 @@ img {
                         </ul>
                     </div>
 <!--C Column-->   
-                    <div>
+                    <div  class="col-lg-3 col-sm-6 mb-4">
                         <strong>Links</strong>
                         <ul>
                         <li><a href="#" class="service-link" style="color: white;">Courses</a></li> <br>
@@ -276,7 +276,7 @@ img {
                         </ul>
                     </div>
 <!--T skills-->      
-                   <div>
+                   <div  class="col-lg-3 col-sm-6 mb-4">
                     <p><strong>Recommended Programs</strong></p>
                    <ul>
                         <li><a href="#" class="about-link" style="color: white;">Technical Skills Training</a></li>
