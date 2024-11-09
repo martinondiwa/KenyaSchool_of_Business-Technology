@@ -249,81 +249,13 @@ img {
 
             </div>
 
-            <!-- Footer -->
-            <footer class="text-light py-4" style="background-color: rgb(44, 61, 71);">
-                <div class="footer-top">
-                    <div class="container">
-                        <div class="row justify-content-between">
-                            <!-- Logo & Description Column -->
-                            <div class="col-lg-3 col-sm-6 mb-4"
-                                style="padding: 15px; background-color: rgba(255, 255, 255, 0.05); border-radius: 5px;">
-                                <a href="#">
-                                    <img style="border-radius: 40% !important; width: 100%;" src="./images/logo"
-                                        alt="Logo" class="mb-3" />
-                                </a>
-                                <div class="line mb-2" style="background-color: rgb(0, 153, 255); height: 2px;"></div>
-                                <p style="color: white">
-                                    Empowering the next generation with essential skills and training for success –
-                                    Welcome to [Your Training School].
-                                </p>
-                                <div class="social-icons mt-3">
-                                    <a href="#" class="me-2 social-icon" style="color: white"><i
-                                            class="ri-twitter-x-line"></i></a>
-                                    <a href="#" class="me-2 social-icon" style="color: white"><i
-                                            class="ri-facebook-circle-fill"></i></a>
-                                    <a href="#" class="me-2 social-icon" style="color: white"><i
-                                            class="ri-linkedin-box-fill"></i></a>
-                                    <a href="#" class="social-icon" style="color: white"><i
-                                            class="ri-instagram-line"></i></a>
-                                </div>
-                            </div>
-
-                            <!-- Company Column -->
-                            <div class="col-lg-2 col-sm-6 mb-4"
-                                style="padding: 15px; background-color: rgba(255, 255, 255, 0.05); border-radius: 5px;">
-                                <h5 class="mb-3 service-heading" style="color: rgb(219, 91, 32);">Company</h5>
-                                <div class="line mb-2" style="background-color: white; height: 2px;"></div>
-                                <ul class="list-unstyled">
-                                    <li><a href="#" class="service-link" style="color: white;">About Us</a></li>
-                                    <li><a href="#" class="service-link" style="color: white;">Our Blog</a></li>
-                                    <li><a href="#" class="service-link" style="color: white;">Careers</a></li>
-                                    <li><a href="#" class="service-link" style="color: white;">Contact Us</a></li>
-                                </ul>
-                            </div>
-
-                            <!-- Explore Column -->
-                            <div class="col-lg-2 col-sm-6 mb-4"
-                                style="padding: 15px; background-color: rgba(255, 255, 255, 0.05); border-radius: 5px;">
-                                <h5 class="mb-3 about-heading" style="color: rgb(219, 91, 32);">Explore</h5>
-                                <div class="line mb-2" style="background-color: white; height: 2px;"></div>
-                                <ul class="list-unstyled">
-                                    <li><a href="#" class="about-link" style="color: white;">Courses</a></li>
-                                    <li><a href="#" class="about-link" style="color: white;">Workshops</a></li>
-                                    <li><a href="#" class="about-link" style="color: white;">Gallery</a></li>
-                                    <li><a href="#" class="about-link" style="color: white;">FAQs</a></li>
-                                </ul>
-                            </div>
-
-                            <!-- Recommended Programs Column -->
-                            <div class="col-lg-3 col-sm-6 mb-4"
-                                style="padding: 15px; background-color: rgba(255, 255, 255, 0.05); border-radius: 5px;">
-                                <h5 class="mb-3 contact-heading" style="color: rgb(219, 91, 32);">Recommended Programs
-                                </h5>
-                                <div class="line mb-2" style="background-color: white; height: 2px;"></div>
-                                <ul class="list-unstyled">
-                                    <li><a href="#" class="about-link" style="color: white;">Technical Skills
-                                            Training</a></li>
-                                    <li><a href="#" class="about-link" style="color: white;">Digital
-                                            Entrepreneurship</a></li>
-                                    <li><a href="#" class="about-link" style="color: white;">Software Engineering
-                                            Bootcamp</a></li>
-                                </ul>
-                            </div>
-                        </div>
+            <footer>
+                <div>
+                    <div>
+                        <p>Empowering the next generation with essential skills and training for success</p>
                     </div>
                 </div>
             </footer>
-
 
 
             <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
