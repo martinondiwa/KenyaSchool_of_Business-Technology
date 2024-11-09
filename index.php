@@ -256,6 +256,12 @@ img {
                     </div>
                     <div>
                         <strong>Company</strong>
+                        <ul>
+                        <li><a href="#" class="service-link" style="color: white;">About Us</a></li>
+                        <li><a href="#" class="service-link" style="color: white;">Our Blog</a></li>
+                        <li><a href="#" class="service-link" style="color: white;">Careers</a></li>
+                        <li><a href="#" class="service-link" style="color: white;">Contact Us</a></li>
+                        </ul>
                     </div>
                 </div>
             </footer>
