@@ -254,8 +254,11 @@
             <div class="col-sm-6">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <h5 class="card-title">WHAT WE DO</h5>
+                        <p class="card-text">Practical and Live-project Training: We believe in learning by doing. Our trainees learn skills by completing real-world projects. These projects give them experiences of actual tech working environments, which is why our graduates fit seamlessly in the industry, and hit the ground running. <br>
+Placement: Through our networks, trainees get opportunities for internship or full-time jobs to get them started in tech. Over 75% of our students are absorbed by partner companies in need of professionals with these rare tech-skills talent to work with them. <br>
+Mentorship: Our mentorship program focuses on supporting learners improve on soft skills and other life skills. We undertake mentorship support to address transition from training to entrepreneurship and formal employment trainees. Luckily, our instructors have experience and are technology experts already working in the industry. Through our incubation programs, led by industry experts, we help our trainees understand how to exploit the enormous opportunities available to them in the tech space.
+Tech solutions & Training</p>
                         <a href="#" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
