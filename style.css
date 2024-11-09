@@ -127,3 +127,39 @@ ul li a:hover {
     font-size: 45px;
     border-radius:15px;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.text-primary {
+  color: #0056b3; /* Blue accent color */
+}
+
+.btn-primary {
+  background-color: #0056b3;
+  border: none;
+}
+
+.btn-outline-primary {
+  color: #0056b3;
+  border-color: #0056b3;
+}
+
+.section-title {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+img {
+  border-radius: 5px;
+}
+
+.shadow {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

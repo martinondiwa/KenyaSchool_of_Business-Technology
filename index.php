@@ -60,6 +60,45 @@
 }
 </style>
 
+<Style>
+    body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.text-primary {
+  color: #0056b3; /* Blue accent color */
+}
+
+.btn-primary {
+  background-color: #0056b3;
+  border: none;
+}
+
+.btn-outline-primary {
+  color: #0056b3;
+  border-color: #0056b3;
+}
+
+.section-title {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+img {
+  border-radius: 5px;
+}
+
+.shadow {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+</Style>
+
 <body>
     <!-- Top Navbar -->
     <div class="top-nav">
@@ -221,103 +260,78 @@
         <div>
             <div class="row">
 
-<!--ppp-->
-<div class="card">
-  <div class="card-header">
-    
-  </div>
-  <div class="card-body">
-    <h5 class="card-title">Leading Tech Solutions & Training Center in Nairobi, Kenya</h5>
-    <p class="card-text">At Kenya School of Business & Technology, we are committed to shaping the future of business and
-                        technology leaders through innovative learning experiences. Our cutting-edge curriculum blends
-                        practical skills with industry insights, equipping students with the tools they need to excel in
-                        today's fast-evolving digital landscape. Whether you're seeking to advance your career in
-                        business
-                        management, IT, data science, or entrepreneurship, our expert faculty, state-of-the-art
-                        facilities,
-                        and hands-on training programs will provide you with the knowledge and confidence to thrive.
-                        Join us
-                        and be part of a dynamic community that fosters innovation, growth, and real-world success.</p>
-    
-  </div>
-</div>
+                <!--ppp-->
+                <div class="container my-4">
+                    <section id="intro">
+                        <div class="card mb-4 border-0 shadow">
+                            <div class="card-body text-center bg-white">
+                                <h5 class="card-title text-primary font-weight-bold">Leading Tech Solutions & Training
+                                    Center in Nairobi, Kenya</h5>
+                                <p class="card-text text-dark">
+                                    At Kenya School of Business & Technology, we are committed to shaping the future of
+                                    business and technology leaders through innovative learning experiences. Our
+                                    cutting-edge curriculum combines practical skills with industry insights, equipping
+                                    students to excel in today’s fast-evolving digital landscape. Join us and be part of
+                                    a dynamic community fostering innovation, growth, and real-world success.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
 
-    <!-- Po-->
-    <Section>
-        <div class="row">
-            <div class="col-sm-6">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">OUR GOALS</h5>
-                        <p class="card-text">Train bright, passionate and talented youth with the most in-demand tech
-                            skills that will power the future. <br>
-                            Empower the next generation of technology innovators and entrepreneurs through challenging,
-                            practical, creative and real-world coursework. <br>
-                            Help them build impactful relationships with tech mentors, that support them at all stages
-                            of their career journey.</p>
-                            <img class="logo-img" src="./images/logoo.PNG" alt="">
-                        <a href="#" class="btn btn-primary">What our Alumni Say</a>
-                    </div>
+                    <section id="values" class="my-5">
+                        <div class="row">
+                            <div class="col-md-6 mb-4">
+                                <div class="card border-primary shadow-sm h-100">
+                                    <div class="card-body">
+                                        <h5 class="card-title text-primary font-weight-bold">OUR GOALS</h5>
+                                        <p class="card-text text-dark">
+                                            Train bright, passionate youth with in-demand tech skills for a tech-driven
+                                            future.<br>
+                                            Empower future tech innovators and entrepreneurs through practical,
+                                            real-world coursework.<br>
+                                            Build impactful mentor relationships that support their career journey.
+                                        </p>
+                                        <div class="text-center">
+                                            <img src="./images/classrr.PNG" alt="Classroom Image" class="img-fluid my-3"
+                                                style="max-height: 200px; width: auto;">
+                                        </div>
+                                        <a href="#" class="btn btn-primary w-100">What Our Alumni Say</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 mb-4">
+                                <div class="card border-primary shadow-sm h-100">
+                                    <div class="card-body">
+                                        <h5 class="card-title text-primary font-weight-bold">WHAT WE DO</h5>
+                                        <p class="card-text text-dark">
+                                            <strong>Practical Training:</strong> Gain real-world experience through
+                                            hands-on projects, making our graduates job-ready.<br>
+                                            <strong>Job Placement:</strong> With our strong industry network, 75% of
+                                            students secure internships or full-time roles.<br>
+                                            <strong>Mentorship:</strong> We support skills development and guide
+                                            students from training to employment.
+                                        </p>
+                                        <a href="#" class="btn btn-primary w-100">Learn More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    
                 </div>
-            </div>
-            <div class="col-sm-6">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">WHAT WE DO</h5>
-                        <p class="card-text">Practical and Live-project Training: We believe in learning by doing. Our
-                            trainees learn skills by completing real-world projects. These projects give them
-                            experiences of actual tech working environments, which is why our graduates fit seamlessly
-                            in the industry, and hit the ground running. <br>
-                            Placement: Through our networks, trainees get opportunities for internship or full-time jobs
-                            to get them started in tech. Over 75% of our students are absorbed by partner companies in
-                            need of professionals with these rare tech-skills talent to work with them. <br>
-                            Mentorship: Our mentorship program focuses on supporting learners improve on soft skills and
-                            other life skills. We undertake mentorship support to address transition from training to
-                            entrepreneurship and formal employment trainees. Luckily, our instructors have experience
-                            and are technology experts already working in the industry. Through our incubation programs,
-                            led by industry experts, we help our trainees understand how to exploit the enormous
-                            opportunities available to them in the tech space.
-                            Tech solutions & Training</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </Section>
-    <!--HP-->
-    <section id="home">
-        <div class="container my-4">
-            <h2>Welcome to Kenya School of Business & Technology (KSBT)</h2>
-            <p>Located in the heart of Nairobi’s CBD, KSBT is a leading institution dedicated to empowering students
-                with cutting-edge technology skills and business acumen. Our goal is to mold future innovators, tech
-                entrepreneurs, and business leaders who can drive digital transformation in Africa and beyond.</p>
-            <p>At KSBT, we combine world-class education, hands-on experience, and industry partnerships to prepare you
-                for the dynamic world of business and technology. Explore our diverse programs and join us in shaping
-                the future of tech-driven business solutions.</p>
-            <a href="/certifications" class="btn btn-primary">Get Started</a>
-        </div>
-    </section>
 
-    <section id="explore">
-        <div class="container my-4">
-            <h2>Explore KSBT: Where Business Meets Technology</h2>
-            <p>At KSBT, we offer a variety of programs that blend business strategies with advanced technological
-                skills. Whether you're passionate about programming, digital marketing, data science, or
-                entrepreneurship, our courses are designed to equip you with the knowledge and expertise you need to
-                excel in today's competitive job market.</p>
-            <p>Explore our faculties, from IT & Computing to Business Management, and discover how you can become a
-                leader in the ever-evolving tech landscape.</p>
-            <a href="/it-skills" class="btn btn-outline-primary">Learn More</a>
-        </div>
-    </section>
 
-    <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous">
-    </script>
+                <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
+                <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+                    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+                    crossorigin="anonymous">
+                </script>
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+                    integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
+                    crossorigin="anonymous">
+                </script>
 </body>
 
 </html>
