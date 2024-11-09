@@ -254,6 +254,9 @@ img {
                     <div>
                         <p>Empowering the next generation with essential skills and training for success</p>
                     </div>
+                    <div>
+                        <strong>Company</strong>
+                    </div>
                 </div>
             </footer>
 
