@@ -163,3 +163,104 @@ img {
 .shadow {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+/* Unified Container for Sticky Navbar */
+.navbar-container {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Top Navbar Styles */
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    font-size: 14px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.top-nav .icon-text {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.top-nav svg {
+    color: #fff;
+}
+
+.top-nav .search-box {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    width: 150px;
+    transition: width 0.3s ease;
+}
+
+.top-nav .search-box:focus {
+    width: 200px;
+}
+
+/* Main Navbar Styles */
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+.main-nav .logo-img {
+    height: 40px;
+    margin-right: 15px;
+}
+
+.main-nav ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.main-nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    position: relative;
+    padding: 8px 0;
+    transition: color 0.3s ease;
+}
+
+.main-nav a:hover {
+    color: #ffeb3b;
+}
+
+.main-nav a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    height: 2px;
+    width: 0;
+    background-color: #ffeb3b;
+    transition: width 0.3s ease;
+}
+
+.main-nav a:hover::after {
+    width: 100%;
+}
+
+/* Button Style */
+.main-nav .btn {
+    background-color: #ffeb3b;
+    color: #000;
+    border-radius: 20px;
+    padding: 5px 15px;
+    transition: all 0.3s ease;
+}
+
+.main-nav .btn:hover {
+    background-color: #fff;
+    color: #2575fc;
+}
