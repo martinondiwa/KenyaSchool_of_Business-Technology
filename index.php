@@ -257,8 +257,8 @@ img {
                             <!-- Logo & Description Column -->
                             <div class="col-lg-3 col-sm-6 mb-4">
                                 <a href="#">
-                                    <img style="border-radius: 40% !important" src="./assets/images/logo.jpeg"
-                                        alt="Subomap Logo" class="mb-3" />
+                                    <img style="border-radius: 40% !important" src="./images/logoo"
+                                        alt="" class="mb-3" />
                                 </a>
                                 <div class="line mb-2" style="background-color: rgb(0, 153, 255)"></div>
                                 <p style="color: white">
@@ -285,33 +285,19 @@ img {
                                 <div class="line mb-2" style="background-color: white"></div>
                                 <ul class="list-unstyled">
                                     <li>
-                                        <a href="#" class="service-link" style="color: white">Cadastral & Boundary
-                                            Surveys</a>
+                                        <a href="#" class="service-link" style="color: white">About</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="service-link" style="color: white">Topographic Mapping &
-                                            Analysis</a>
+                                        <a href="#" class="service-link" style="color: white">Blog</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="service-link" style="color: white">3D Modeling & Data
-                                            Collection</a>
+                                        <a href="#" class="service-link" style="color: white">Join</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="service-link" style="color: white">Engineering & Construction
-                                            Surveys</a>
+                                        <a href="#" class="service-link" style="color: white">Contact</a>
                                     </li>
-                                    <li>
-                                        <a href="#" class="service-link" style="color: white">Subdivision & Property
-                                            Surveys</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="service-link" style="color: white">Carbon Mapping &
-                                            Environmental Impact Analysis</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="service-link" style="color: white">Web & Graphic Design</a>
-                                    </li>
-                                </ul>
+                                   
+                                    
                             </div>
 
                             <!-- About Column -->
