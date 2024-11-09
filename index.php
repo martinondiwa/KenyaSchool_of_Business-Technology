@@ -11,122 +11,96 @@
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 <style>
-    /* Top Navbar Styles */
-    .top-nav {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      background-color: rgb(44, 61, 71);
-      color: #fff;
-      padding: 10px 20px;
-      font-size: 14px;
-    }
-    .top-nav .left-section,
-    .top-nav .right-section {
-      display: flex;
-      align-items: center;
-    }
-    .top-nav .icon-text {
-      display: flex;
-      align-items: center;
-      margin-right: 20px;
-    }
-    .top-nav .icon-text i {
-      margin-right: 5px;
-    }
-    .top-nav .search-icon {
-      cursor: pointer;
-    }
-    /* Search box */
-    .search-box {
-      display: none;
-      position: absolute;
-      right: 20px;
-      top: 50px;
-      background-color: #333;
-      padding: 10px;
-      border-radius: 5px;
-    }
-    .search-box input[type="text"] {
-      padding: 5px;
-      width: 200px;
-      color: #333;
-    }
-  </style>
+/* Top Navbar Styles */
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(44, 61, 71);
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.top-nav .left-section,
+.top-nav .right-section {
+    display: flex;
+    align-items: center;
+}
+
+.top-nav .icon-text {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.top-nav .icon-text i {
+    margin-right: 5px;
+}
+
+.top-nav .search-icon {
+    cursor: pointer;
+}
+
+/* Search box */
+.search-box {
+    display: none;
+    position: absolute;
+    right: 20px;
+    top: 50px;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.search-box input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    color: #333;
+}
+</style>
+
 <body>
     <!-- Top Navbar -->
     <div class="top-nav">
-      <div class="left-section">
-        <div class="icon-text">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="16"
-            height="16"
-            fill="currentColor"
-            class="bi bi-telephone"
-            viewBox="0 0 16 16"
-          >
-            <path
-              d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"
-            />
-          </svg>
-          <span style="padding-left: 10px">Phone: 07980 955 29 </span>
+        <div class="left-section">
+            <div class="icon-text">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                    class="bi bi-telephone" viewBox="0 0 16 16">
+                    <path
+                        d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z" />
+                </svg>
+                <span style="padding-left: 10px">Phone: 07980 955 29 </span>
+            </div>
+            <div class="icon-text">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                    class="bi bi-envelope" viewBox="0 0 16 16">
+                    <path
+                        d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1zm13 2.383-4.708 2.825L15 11.105zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741M1 11.105l4.708-2.897L1 5.383z" />
+                </svg>
+                <span style="padding-left: 10px">Email: customercare@Kenyaschool.com</span>
+            </div>
+            <div class="icon-text">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clock"
+                    viewBox="0 0 16 16">
+                    <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z" />
+                    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16m7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0" />
+                </svg>
+                <span style="padding-left: 10px">Mon-Fri: 8am - 5p.m</span>
+            </div>
         </div>
-        <div class="icon-text">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="16"
-            height="16"
-            fill="currentColor"
-            class="bi bi-envelope"
-            viewBox="0 0 16 16"
-          >
-            <path
-              d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1zm13 2.383-4.708 2.825L15 11.105zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741M1 11.105l4.708-2.897L1 5.383z"
-            />
-          </svg>
-          <span style="padding-left: 10px"
-            >Email: customercare@Kenyaschool.com</span
-          >
+        <div class="right-section">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search"
+                viewBox="0 0 16 16">
+                <path
+                    d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+            </svg>
+            <div class="search-box" id="searchBox">
+                <input type="text" placeholder="Search..." />
+            </div>
         </div>
-        <div class="icon-text">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="16"
-            height="16"
-            fill="currentColor"
-            class="bi bi-clock"
-            viewBox="0 0 16 16"
-          >
-            <path
-              d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z"
-            />
-            <path
-              d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16m7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0"
-            />
-          </svg>
-          <span style="padding-left: 10px">Mon-Fri: 8am - 5p.m</span>
-        </div>
-      </div>
-      <div class="right-section">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          width="16"
-          height="16"
-          fill="currentColor"
-          class="bi bi-search"
-          viewBox="0 0 16 16"
-        >
-          <path
-            d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"
-          />
-        </svg>
-        <div class="search-box" id="searchBox">
-          <input type="text" placeholder="Search..." />
-        </div>
-      </div>
     </div>
-<!-- Main Nav Bar-->
+    <!-- Main Nav Bar-->
     <Nav>
         <label class="logo">
             <img class="logo-img" src="./images/logoo.PNG" alt="">
@@ -264,7 +238,30 @@
             </div>
         </div>
     </section>
-
+    <!-- Po-->
+    <Section>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Special title treatment</h5>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Special title treatment</h5>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </Section>
+    <!--HP-->
     <section id="home">
         <div class="container my-4">
             <h2>Welcome to Kenya School of Business & Technology (KSBT)</h2>
