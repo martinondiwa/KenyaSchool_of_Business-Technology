@@ -255,6 +255,7 @@
                             practical, creative and real-world coursework. <br>
                             Help them build impactful relationships with tech mentors, that support them at all stages
                             of their career journey.</p>
+                            <img class="logo-img" src="./images/logoo.PNG" alt="">
                         <a href="#" class="btn btn-primary">What our Alumni Say</a>
                     </div>
                 </div>
