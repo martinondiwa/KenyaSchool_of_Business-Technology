@@ -101,7 +101,7 @@ img {
 
 <body>
     <div class="navbar-container">
-        <!-- Top Navbar -->
+        <!-- Top Navbar. -->
         <div class="top-nav">
             <div class="left-section">
                 <div class="icon-text">
