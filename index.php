@@ -141,7 +141,7 @@ img {
             </div>
         </div>
 
-        <!-- Main Navbar -->
+        <!-- Main Nav -->
         <nav class="main-nav">
             <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
             <ul>
