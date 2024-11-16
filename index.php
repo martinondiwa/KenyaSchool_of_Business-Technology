@@ -188,7 +188,7 @@ img {
     <div>
         <div class="row">
 
-            <!--pppjjj-->
+            <!--pjjj-->
             <div class="container my-4">
                 <section id="intro">
                     <div class="card mb-4 border-0 shadow">
