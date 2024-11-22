@@ -348,7 +348,7 @@ img {
     color: #f9a825;
 }
 
-/* Footer background color for smaller devices */
+/* Footer background color*/
 @media (max-width: 768px) {
     .footer .row {
         flex-direction: column;
