@@ -103,13 +103,11 @@ img {
 .shadow {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-
-
 </Style>
 
 <body>
     <div class="navbar-container">
-        
+
         <!-- Top Navbar. -->
         <div class="top-nav">
             <div class="left-section">
@@ -149,7 +147,7 @@ img {
                 </div>
             </div>
         </div>
-        
+
         <!-- Main Nav-->
         <Nav>
             <nav class="main-nav">
@@ -157,17 +155,27 @@ img {
                 <ul>
                     <li><a href="Home.php">Home</a></li>
                     <li><a href="index.php">About Us</a></li>
-                    <li><a href="Academic_Programmes.php">
-                        
-                    </a></li>
+                    <li><a href="">
+                            <!-- Default dropend button -->
+                            <div class="btn-group dropend">
+                                <button type="button" class="btn btn-secondary dropdown-toggle"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Dropright
+                                </button>
+                                <ul class="dropdown-menu">
+                                    <!-- Dropdown menu links -->
+                                </ul>
+                            </div>
+                        </a></li>
                     <li><a href="admissions.php">Admissions</a></li>
                     <li><a href="media_desk.php">Media Desk</a></li>
                     <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
                 </ul>
             </nav>
         </Nav>
-    
+
     </div>
+
     <body>
         <header class="hero-section">
             <div class="hero-content">
