@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admissions</title>
+    <title>Admissions | Kenya School of Business and IT</title>
 
     <link rel="stylesheet" href="style.css">
     <!-- Bootstrap CSS -->
@@ -30,7 +30,102 @@
     </Nav>
 </section>
 
-  <div> Main Body</div>
+  <!-- MAin-->
+   <!-- Header -->
+   <header class="header-section">
+        <h1>Admissions</h1>
+        <p>Welcome to Kenya School of Business and IT - Bridging Nairobi's Education Gap</p>
+    </header>
+
+    <!-- About the School -->
+    <section class="about-section">
+        <div class="container">
+            <h2 class="section-title">About Kenya School of Business and IT</h2>
+            <p>
+                Located in the heart of Nairobi, the Kenya School of Business and IT is committed to addressing the educational challenges faced by the city.
+                By combining traditional education methods with cutting-edge EdTech solutions, we provide affordable, accessible, and practical learning experiences.
+            </p>
+            <p>
+                With a focus on business and IT, our programs equip students with in-demand skills, promote gender-inclusive education, and offer flexible learning options to meet the needs of all learners.
+            </p>
+        </div>
+    </section>
+
+    <!-- Admissions Process -->
+    <section class="admissions-process">
+        <div class="container">
+            <h2 class="section-title">Admissions Process</h2>
+            <div class="row">
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">How to Apply</h5>
+                            <ul>
+                                <li>Download and complete the application form.</li>
+                                <li>Attach all required documents (see below).</li>
+                                <li>Submit your application online or at our admissions office before the deadline.</li>
+                            </ul>
+                            <a href="./downloads/application-form.pdf" class="btn btn-primary">Download Application Form</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Admission Deadlines</h5>
+                            <p>
+                                Applications for the January 2025 intake are open. Submit your application before <strong>December 1, 2024</strong>.
+                            </p>
+                            <p>Early applications are encouraged to secure your spot!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Tuition Information -->
+    <section class="tuition-section">
+        <div class="container">
+            <h2 class="section-title">Tuition and Fees</h2>
+            <ul>
+                <li><strong>Diploma Programs:</strong> KES 75,000 per semester</li>
+                <li><strong>Short Courses:</strong> Starting at KES 20,000 per course</li>
+                <li><strong>Payment Plans:</strong> Flexible options are available.</li>
+            </ul>
+            <a href="./downloads/tuition-fees.pdf" class="btn btn-primary">Download Detailed Fee Structure</a>
+        </div>
+    </section>
+
+    <!-- Admission Requirements -->
+    <section class="requirements-section">
+        <div class="container">
+            <h2 class="section-title">Admission Requirements</h2>
+            <ul>
+                <li>Completed application form</li>
+                <li>Certified copies of academic certificates</li>
+                <li>Copy of ID/Passport</li>
+                <li>Two recent passport-size photographs</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- FAQs -->
+    <section class="faq-section">
+        <div class="container">
+            <h2 class="section-title">Frequently Asked Questions</h2>
+            <div>
+                <p><strong>Q:</strong> Can I apply online?<br>
+                   <strong>A:</strong> Yes, you can submit your application through our online portal or via email.
+                </p>
+                <p><strong>Q:</strong> Are scholarships available?<br>
+                   <strong>A:</strong> Yes, scholarships are available for top-performing students. Contact our admissions office for more details.
+                </p>
+                <p><strong>Q:</strong> Is there a minimum age requirement?<br>
+                   <strong>A:</strong> No, we welcome learners of all ages to apply.
+                </p>
+            </div>
+        </div>
 
 
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
