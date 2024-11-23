@@ -31,25 +31,11 @@
 </section>
 
   <!-- MAin-->
-   <!-- Header -->
-   <header class="header-section">
+    <!-- Header -->
+    <header class="header-section">
         <h1>Admissions</h1>
-        <p>Welcome to Kenya School of Business and IT - Bridging Nairobi's Education Gap</p>
+        <p>Learn about the application process, tuition, and admission requirements at Kenya School of Business and IT</p>
     </header>
-
-    <!-- About the School -->
-    <section class="about-section">
-        <div class="container">
-            <h2 class="section-title">About Kenya School of Business and IT</h2>
-            <p>
-                Located in the heart of Nairobi, the Kenya School of Business and IT is committed to addressing the educational challenges faced by the city.
-                By combining traditional education methods with cutting-edge EdTech solutions, we provide affordable, accessible, and practical learning experiences.
-            </p>
-            <p>
-                With a focus on business and IT, our programs equip students with in-demand skills, promote gender-inclusive education, and offer flexible learning options to meet the needs of all learners.
-            </p>
-        </div>
-    </section>
 
     <!-- Admissions Process -->
     <section class="admissions-process">
@@ -126,6 +112,7 @@
                 </p>
             </div>
         </div>
+    </section>
 
 
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
