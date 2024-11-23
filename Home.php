@@ -48,7 +48,7 @@
         </header>
     </body>
 
-    <?php $IPATH = $_SERVER["DOCUMENT_ROOT"]."/KenyaSchool_of_Business-Technology/Assets/php/"; include($IPATH.""); ?>
+    <?php $IPATH = $_SERVER["DOCUMENT_ROOT"]."/KenyaSchool_of_Business-Technology/Assets/php/"; include($IPATH."footer.html"); ?>
 
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
