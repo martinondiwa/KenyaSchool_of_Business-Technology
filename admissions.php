@@ -15,7 +15,7 @@
 
 <body>
     <!--Nav Bar-->
-    <section>
+    <div class="navbar-container">
         <Nav>
             <nav class="main-nav">
                 <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
@@ -29,15 +29,16 @@
                 </ul>
             </nav>
         </Nav>
-    </section>
+    </div>
 
-    <!-- MAin-->
     <!-- Header -->
+    <section>
     <header class="header-section">
         <h1>Admissions</h1>
         <p>Learn about the application process, tuition, and admission requirements at Kenya School of Business and IT
         </p>
     </header>
+    </section>
 
     <!-- Admissions Process -->
     <section class="admissions-process">
@@ -114,22 +115,22 @@
             <h2 class="section-title">Admission Requirements</h2>
             <div class="requirements-grid">
                 <div class="requirement-card">
-                    
+
                     <h3>Application Form</h3>
                     <p>Submit a completed application form with all required details.</p>
                 </div>
                 <div class="requirement-card">
-                    
+
                     <h3>Academic Certificates</h3>
                     <p>Provide certified copies of all relevant academic certificates.</p>
                 </div>
                 <div class="requirement-card">
-                   
+
                     <h3>ID/Passport</h3>
                     <p>Include a copy of your national ID or passport for identification.</p>
                 </div>
                 <div class="requirement-card">
-                   
+
                     <h3>Passport-Size Photos</h3>
                     <p>Provide two recent passport-size photographs.</p>
                 </div>
@@ -157,7 +158,7 @@
     </section>
 
     <?php $IPATH = $_SERVER["C:/xampp/htdocs"]."./Assets/php/"; include($IPATH."footer.html"); ?>
-    
+
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">

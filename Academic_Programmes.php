@@ -14,7 +14,7 @@
 
 <body>
 <!--Nav Bar-->
-<section>
+<div class="navbar-container">
     <Nav>
     <nav class="main-nav">
             <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
@@ -28,7 +28,7 @@
             </ul>
         </nav>
     </Nav>
-</section>
+</div>
 
 <?php $IPATH = $_SERVER["C:/xampp/htdocs"]."./Assets/php/"; include($IPATH."footer.html"); ?>
 
