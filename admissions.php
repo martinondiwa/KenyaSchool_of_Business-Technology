@@ -14,28 +14,29 @@
 </head>
 
 <body>
-<!--Nav Bar-->
-<section>
-    <Nav>
-    <nav class="main-nav">
-            <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
-            <ul>
-                <li><a href="Home.php">Home</a></li>
-                <li><a href="index.php">About Us</a></li>
-                <li><a href="Academic_Programmes.php">Programs/Academics</a></li>
-                <li><a href="admissions.php">Admissions</a></li>
-                <li><a href="media_desk.php">Media Desk</a></li>
-                <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
-            </ul>
-        </nav>
-    </Nav>
-</section>
+    <!--Nav Bar-->
+    <section>
+        <Nav>
+            <nav class="main-nav">
+                <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
+                <ul>
+                    <li><a href="Home.php">Home</a></li>
+                    <li><a href="index.php">About Us</a></li>
+                    <li><a href="Academic_Programmes.php">Programs/Academics</a></li>
+                    <li><a href="admissions.php">Admissions</a></li>
+                    <li><a href="media_desk.php">Media Desk</a></li>
+                    <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
+                </ul>
+            </nav>
+        </Nav>
+    </section>
 
-  <!-- MAin-->
+    <!-- MAin-->
     <!-- Header -->
     <header class="header-section">
         <h1>Admissions</h1>
-        <p>Learn about the application process, tuition, and admission requirements at Kenya School of Business and IT</p>
+        <p>Learn about the application process, tuition, and admission requirements at Kenya School of Business and IT
+        </p>
     </header>
 
     <!-- Admissions Process -->
@@ -52,7 +53,8 @@
                                 <li>Attach all required documents (see below).</li>
                                 <li>Submit your application online or at our admissions office before the deadline.</li>
                             </ul>
-                            <a href="./downloads/application-form.pdf" class="btn btn-primary">Download Application Form</a>
+                            <a href="./downloads/application-form.pdf" class="btn btn-primary">Download Application
+                                Form</a>
                         </div>
                     </div>
                 </div>
@@ -61,7 +63,8 @@
                         <div class="card-body">
                             <h5 class="card-title">Admission Deadlines</h5>
                             <p>
-                                Applications for the January 2025 intake are open. Submit your application before <strong>December 1, 2024</strong>.
+                                Applications for the January 2025 intake are open. Submit your application before
+                                <strong>December 1, 2024</strong>.
                             </p>
                             <p>Early applications are encouraged to secure your spot!</p>
                         </div>
@@ -88,12 +91,36 @@
     <section class="requirements-section">
         <div class="container">
             <h2 class="section-title">Admission Requirements</h2>
-            <ul>
-                <li>Completed application form</li>
-                <li>Certified copies of academic certificates</li>
-                <li>Copy of ID/Passport</li>
-                <li>Two recent passport-size photographs</li>
-            </ul>
+            <div class="requirements-grid">
+                <div class="requirement-card">
+                    <div class="icon">
+                        <img src="icons/application-form.png" alt="Application Form Icon">
+                    </div>
+                    <h3>Application Form</h3>
+                    <p>Submit a completed application form with all required details.</p>
+                </div>
+                <div class="requirement-card">
+                    <div class="icon">
+                        <img src="icons/certificates.png" alt="Certificates Icon">
+                    </div>
+                    <h3>Academic Certificates</h3>
+                    <p>Provide certified copies of all relevant academic certificates.</p>
+                </div>
+                <div class="requirement-card">
+                    <div class="icon">
+                        <img src="icons/passport.png" alt="ID/Passport Icon">
+                    </div>
+                    <h3>ID/Passport</h3>
+                    <p>Include a copy of your national ID or passport for identification.</p>
+                </div>
+                <div class="requirement-card">
+                    <div class="icon">
+                        <img src="icons/photograph.png" alt="Photograph Icon">
+                    </div>
+                    <h3>Passport-Size Photos</h3>
+                    <p>Provide two recent passport-size photographs.</p>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -103,13 +130,14 @@
             <h2 class="section-title">Frequently Asked Questions</h2>
             <div>
                 <p><strong>Q:</strong> Can I apply online?<br>
-                   <strong>A:</strong> Yes, you can submit your application through our online portal or via email.
+                    <strong>A:</strong> Yes, you can submit your application through our online portal or via email.
                 </p>
                 <p><strong>Q:</strong> Are scholarships available?<br>
-                   <strong>A:</strong> Yes, scholarships are available for top-performing students. Contact our admissions office for more details.
+                    <strong>A:</strong> Yes, scholarships are available for top-performing students. Contact our
+                    admissions office for more details.
                 </p>
                 <p><strong>Q:</strong> Is there a minimum age requirement?<br>
-                   <strong>A:</strong> No, we welcome learners of all ages to apply.
+                    <strong>A:</strong> No, we welcome learners of all ages to apply.
                 </p>
             </div>
         </div>
