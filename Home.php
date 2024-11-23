@@ -156,7 +156,18 @@ img {
                     <li><a href="Home.php">Home</a></li>
                     <li><a href="index.php">About Us</a></li>
                     <li><a href="">
-                     
+                            <div class="dropdown">
+                                <a class=" dropdown-toggle" href="#" role=""
+                                    id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Dropdown link
+                                </a>
+
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <li><a class="dropdown-item" href="#">Action</a></li>
+                                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                </ul>
+                            </div>
 
                     </li>
                     <li><a href="admissions.php">Admissions</a></li>
