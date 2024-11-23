@@ -145,12 +145,12 @@ img {
         <nav class="main-nav">
             <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="about_us.php">About Us</a></li>
                 <li><a href="Academic_Programmes.php">Programs/Academics</a></li>
-                <li><a href="#">Admissions</a></li>
+                <li><a href="admissions.php">Admissions</a></li>
                 <li><a href="media_desk.php">Media Desk</a></li>
-                <li><a href="#" class="btn btn-success">Contact Us</a></li>
+                <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
             </ul>
         </nav>
     </div>
