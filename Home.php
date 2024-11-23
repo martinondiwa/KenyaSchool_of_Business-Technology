@@ -86,19 +86,15 @@
             </div>
         </div>
 
-       
+        <!-- Footer Bottom -->
+        <div class="text-center mt-4 py-2" style="background-color: #1b1e21;">
+            <p class="mb-0">&copy; 2024 Kenya School of Business & Technology. All Rights Reserved.</p>
+        </div>
     </div>
 </footer>
 
   </Section>
- <section>
-    <footer>
-         <!-- Footer Bottom -->
-         <div class="text-center mt-4 py-2" style="background-color: #1b1e21;">
-            <p class="mb-0">&copy; 2024 Kenya School of Business & Technology. All Rights Reserved.</p>
-        </div>
-    </footer>
- </section>
+    
 
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"

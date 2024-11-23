@@ -1,26 +1,51 @@
+/* General Footer Styling */
 footer {
-    background-color: #212529; /* Dark background color */
+    background-color: #212529; /* Dark gray background */
     color: #f8f9fa; /* Light text color */
 }
 
 footer a {
     color: #f8f9fa;
+    text-decoration: none;
     transition: color 0.3s ease;
 }
 
 footer a:hover {
-    color: #007bff; /* Change link color on hover */
+    color: #007bff; /* Blue hover effect for links */
 }
 
 footer h5 {
     font-weight: bold;
+    margin-bottom: 1rem;
 }
 
+/* Styling for Quick Links List */
+footer ul {
+    padding: 0;
+    list-style: none; /* Remove bullets from the list */
+}
+
+footer ul li {
+    margin-bottom: 0.5rem;
+}
+
+footer ul li a {
+    display: inline-block;
+}
+
+/* Social Media Icons */
 footer .fab {
     font-size: 1.2rem;
+    margin-right: 0.5rem;
     transition: color 0.3s ease;
 }
 
 footer .fab:hover {
-    color: #007bff; /* Change social icon color on hover */
+    color: #007bff; /* Blue hover effect for icons */
+}
+
+/* Footer Bottom Styling */
+footer .text-center {
+    background-color: #1b1e21; /* Slightly darker background for the bottom bar */
+    color: #ccc; /* Slightly lighter text color */
 }
