@@ -30,7 +30,7 @@
     </Nav>
 </section>
 
-  <div> Main Body</div>
+<?php $IPATH = $_SERVER["C:/xampp/htdocs"]."./Assets/php/"; include($IPATH."footer.html"); ?>
 
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
