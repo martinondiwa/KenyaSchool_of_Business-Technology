@@ -99,6 +99,8 @@ img {
 .shadow {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+
 </Style>
 
 <body>
@@ -156,85 +158,152 @@ img {
             </ul>
         </nav>
     </div>
-   
-    
 
-    <div>
-        <div class="row">
+    <!--Body-->
 
-            <!--Project  -->
+
+    <section>
+
+        <body>
             <div class="container my-4">
+                <!-- Introduction Section -->
                 <section id="intro">
                     <div class="card mb-4 border-0 shadow">
-                        <div class="card-body text-center bg-white">
-                            <h5 class="card-title text-primary font-weight-bold">Leading Tech Solutions & Training
-                                Center in Nairobi, Kenya</h5>
-                            <p class="card-text text-dark">
-                                At Kenya School of Business & Technology, we are committed to shaping the future of
-                                business and technology leaders through innovative learning experiences. Our
-                                cutting-edge curriculum combines practical skills with industry insights, equipping
-                                students to excel in today’s fast-evolving digital landscape. Join us and be part of
-                                a dynamic community fostering innovation, growth, and real-world success.
+                        <div class="card-body text-center">
+                            <h5 class="card-title text-primary font-weight-bold">About Us</h5>
+                            <p class="card-text">
+                                At Kenya School of Business & Technology, we take pride in our history of excellence and
+                                our commitment to innovation in education. Learn more about our mission, vision, and the
+                                values that guide us as we empower the next generation of business and IT leaders.
                             </p>
                         </div>
                     </div>
                 </section>
 
-                <section id="values" class="my-5">
+                <!-- History Section -->
+                <section id="history" class="my-5">
+                    <div class="card mb-4 border-0 shadow">
+                        <div class="card-body bg-light">
+                            <h5 class="card-title text-primary font-weight-bold">Our History</h5>
+                            <p class="card-text text-dark">
+                                Established in 2010, the Kenya School of Business & Technology has grown into a leading
+                                institution providing top-notch education in business and IT. With a focus on bridging
+                                the gap between theoretical knowledge and industry demands, we have become a trusted
+                                name in professional education.
+                            </p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Mission and Vision Section -->
+                <section id="mission-vision" class="my-5">
                     <div class="row">
                         <div class="col-md-6 mb-4">
                             <div class="card border-primary shadow-sm h-100">
                                 <div class="card-body">
-                                    <h5 class="card-title text-primary font-weight-bold">OUR GOALS</h5>
+                                    <h5 class="card-title text-primary font-weight-bold">Our Mission</h5>
                                     <p class="card-text text-dark">
-                                        Train bright, passionate youth with in-demand tech skills for a tech-driven
-                                        future.<br>
-                                        Empower future tech innovators and entrepreneurs through practical,
-                                        real-world coursework.<br>
-                                        Build impactful mentor relationships that support their career journey.
+                                        To empower students with knowledge and skills that foster innovation, drive
+                                        business growth, and contribute to a sustainable future.
                                     </p>
-                                    <div class="text-center">
-                                        <img src="./images/classrr.PNG" alt="Classroom Image" class="img-fluid my-3"
-                                            style="max-height: 200px; width: auto;">
-                                    </div>
-                                    <a href="#" class="btn btn-primary w-100">What Our Alumni Say</a>
                                 </div>
                             </div>
                         </div>
-
                         <div class="col-md-6 mb-4">
                             <div class="card border-primary shadow-sm h-100">
                                 <div class="card-body">
-                                    <h5 class="card-title text-primary font-weight-bold">WHAT WE DO</h5>
+                                    <h5 class="card-title text-primary font-weight-bold">Our Vision</h5>
                                     <p class="card-text text-dark">
-                                        <strong>Practical Training:</strong> Gain real-world experience through
-                                        hands-on projects, making our graduates job-ready.<br>
-                                        <strong>Job Placement:</strong> With our strong industry network, 75% of
-                                        students secure internships or full-time roles.<br>
-                                        <strong>Mentorship:</strong> We support skills development and guide
-                                        students from training to employment.
+                                        To be a premier institution shaping leaders in business and IT, recognized
+                                        globally for our excellence in education and innovation.
                                     </p>
-                                    <a href="#" class="btn btn-primary w-100">Learn More</a>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </section>
-               
+
+                <!-- Core Values Section -->
+                <section id="values" class="my-5">
+                    <div class="card mb-4 border-0 shadow">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary font-weight-bold">Our Core Values</h5>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Integrity: Upholding honesty and ethics in all our
+                                    endeavors.</li>
+                                <li class="list-group-item">Innovation: Encouraging creativity and forward-thinking
+                                    solutions.</li>
+                                <li class="list-group-item">Excellence: Striving for the highest standards in education
+                                    and service.</li>
+                                <li class="list-group-item">Inclusivity: Promoting equal opportunities for all.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+                <!-- Achievements Section -->
+                <section id="achievements" class="my-5">
+                    <div class="card mb-4 border-0 shadow">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary font-weight-bold">Our Achievements</h5>
+                            <p class="card-text text-dark">
+                                We are proud of our accomplishments, which include:
+                            </p>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Training over 5,000 students in business and IT fields.</li>
+                                <li class="list-group-item">Receiving accreditation from the Ministry of Education and
+                                    international bodies.</li>
+                                <li class="list-group-item">Winning multiple awards for excellence in vocational
+                                    training.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Community Impact Section -->
+                <section id="community-impact" class="my-5">
+                    <div class="row">
+                        <div class="col-md-6 mb-4">
+                            <div class="card border-primary shadow-sm h-100">
+                                <div class="card-body">
+                                    <h5 class="card-title text-primary font-weight-bold">Our Community Impact</h5>
+                                    <p class="card-text text-dark">
+                                        We actively contribute to the community through:
+                                    </p>
+                                    <ul>
+                                        <li>Providing scholarships for underprivileged students.</li>
+                                        <li>Offering free digital literacy workshops in underserved areas.</li>
+                                        <li>Supporting initiatives that promote gender equality in education.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="card border-primary shadow-sm h-100">
+                                <div class="card-body">
+                                    <h5 class="card-title text-primary font-weight-bold">Accreditation</h5>
+                                    <p class="card-text text-dark">
+                                        Our institution is fully accredited by the Ministry of Education and meets
+                                        international standards of academic excellence. We collaborate with industry
+                                        leaders to ensure our programs are current and relevant.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
             </div>
+        </body>
+    </section>
 
-            
 
-            <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
-            <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-                integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
-                crossorigin="anonymous">
-            </script>
-            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-                integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
-                crossorigin="anonymous">
-            </script>
+
+    <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous">
+    </script>
 </body>
 
 </html>
