@@ -147,9 +147,9 @@ img {
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="about_us.php">About Us</a></li>
-                <li><a href="#">Programs/Academics</a></li>
+                <li><a href="Academic_Programmes.php">Programs/Academics</a></li>
                 <li><a href="#">Admissions</a></li>
-                <li><a href="#">Media Desk</a></li>
+                <li><a href="media_desk.php">Media Desk</a></li>
                 <li><a href="#" class="btn btn-success">Contact Us</a></li>
             </ul>
         </nav>
