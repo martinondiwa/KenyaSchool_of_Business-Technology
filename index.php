@@ -145,11 +145,11 @@ img {
         <nav class="main-nav">
             <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
             <ul>
+                <li><a href="#">Home</a></li>
                 <li><a href="#">About Us</a></li>
-                <li><a href="#">Academic Programmes</a></li>
+                <li><a href="#">Programs/Academics</a></li>
+                <li><a href="#">Admissions</a></li>
                 <li><a href="#">Media Desk</a></li>
-                <li><a href="#">Admission</a></li>
-                <li><a href="#">Enroll Today</a></li>
                 <li><a href="#" class="btn btn-success">Contact Us</a></li>
             </ul>
         </nav>
