@@ -9,6 +9,100 @@
    
     <link rel="stylesheet" href="homestyle.css">
     <link rel="stylesheet" href="style.css">
+
+    
+/* Top Navbar Styles */
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(44, 61, 71);
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.top-nav .left-section,
+.top-nav .right-section {
+    display: flex;
+    align-items: center;
+}
+
+.top-nav .icon-text {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.top-nav .icon-text i {
+    margin-right: 5px;
+}
+
+.top-nav .search-icon {
+    cursor: pointer;
+}
+
+/* Search box */
+.search-box {
+    display: none;
+    position: absolute;
+    right: 20px;
+    top: 50px;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.search-box input[type="text"] {
+    padding: 5px;
+    width: 200px;
+    color: #333;
+}
+</style>
+
+<Style>
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.text-primary {
+    color: #0056b3;
+    /* Blue accent color */
+}
+
+.btn-primary {
+    background-color: #0056b3;
+    border: none;
+}
+
+.btn-outline-primary {
+    color: #0056b3;
+    border-color: #0056b3;
+}
+
+.section-title {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+img {
+    border-radius: 5px;
+}
+
+.shadow {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+</Style>
+
+
+
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
