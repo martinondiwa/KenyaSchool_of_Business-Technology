@@ -65,8 +65,8 @@
                         <ul
                             style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 5px;">
                             <li><a href="Home.php" style="color: white; text-decoration: none;">Home</a></li>
-                            <li><a href="Academic_Programmes.php" style="color: white; text-decoration: none;">About Us</a></li>
-                            <li><a href="" style="color: white; text-decoration: none;">Courses</a></li>
+                            <li><a href="index.php" style="color: white; text-decoration: none;">About Us</a></li>
+                            <li><a href="Academic_Programmes.php" style="color: white; text-decoration: none;">Courses</a></li>
                             <li><a href="contact_us.php" style="color: white; text-decoration: none;">Contact Us</a>
                             </li>
                         </ul>
