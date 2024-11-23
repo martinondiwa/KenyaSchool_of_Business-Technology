@@ -150,7 +150,7 @@ img {
                 <li><a href="#">Media Desk</a></li>
                 <li><a href="#">Admission</a></li>
                 <li><a href="#">Enroll Today</a></li>
-                <li><a href="#" class="btn btn-success">Portal</a></li>
+                <li><a href="#" class="btn btn-success">Contact Us</a></li>
             </ul>
         </nav>
     </div>
@@ -242,11 +242,12 @@ img {
                                     </p>
                                     <a href="#" class="btn btn-primary w-100">Learn More</a>
                                 </div>
+
                             </div>
                         </div>
                     </div>
                 </section>
-
+               
             </div>
 
             
