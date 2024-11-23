@@ -38,9 +38,9 @@
             <h1>Welcome to Kenya School of Business and IT</h1>
             <p>Empowering the next generation with modern skills in business and technology. Join us to shape a brighter future through education and innovation.</p>
             <div class="hero-buttons">
-                <a href="#admissions" class="btn">Admissions</a>
-                <a href="#programs" class="btn">Programs</a>
-                <a href="#contact" class="btn">Contact Us</a>
+                <a href="admissions.php" class="btn">Admissions</a>
+                <a href="Academic_Programmes.php" class="btn">Programs</a>
+                <a href="contact_us.php" class="btn">Contact Us</a>
             </div>
         </div>
     </header>
