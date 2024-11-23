@@ -1,78 +1,51 @@
-/* General Reset */
-body, h1, h2, p, ul, li {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, sans-serif;
+/* General Section Styling */
+#intro {
+    background-image: url('./images/classrr.PNG'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
 }
 
-body {
-    background-color: #f9f9f9;
-    color: #333;
-    line-height: 1.6;
-    font-size: 16px;
+#intro .card-body {
+    background-color: rgba(0, 0, 0, 0.6); /* Dark overlay for better text readability */
+    padding: 3rem;
+    border-radius: 10px;
 }
 
-/* Header Section */
-.about-hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('https://via.placeholder.com/1920x500') no-repeat center center/cover;
-    color: #fff;
-    text-align: center;
-    padding: 50px 20px;
+#intro h5, 
+#intro p {
+    color: white;
 }
 
-.about-hero h1 {
-    font-size: 2.5rem;
-    margin-bottom: 10px;
+/* Card Styling */
+.card {
+    border: 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-.about-hero p {
-    font-size: 1.2rem;
+.card .card-body {
+    padding: 2rem;
 }
 
-/* About Section */
-.about-section {
-    padding: 50px 20px;
-    max-width: 1200px;
-    margin: auto;
-}
-
-.about-content {
-    margin-bottom: 40px;
-}
-
-.about-content h2 {
-    font-size: 1.8rem;
-    color: #007bff;
-    margin-bottom: 15px;
-}
-
-.about-content p, .about-content ul {
+/* Core Values List Styling */
+.list-group-item {
     font-size: 1rem;
-    color: #555;
+    background-color: transparent;
+    border: none;
+    padding-left: 0;
 }
 
-.about-content ul {
-    list-style: disc;
-    margin-left: 20px;
+/* Button Styling */
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 5px;
 }
 
-.about-content ul li {
-    margin-bottom: 10px;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .about-hero h1 {
-        font-size: 2rem;
-    }
-
-    .about-hero p {
-        font-size: 1rem;
-    }
-
-    .about-content h2 {
-        font-size: 1.5rem;
-    }
+.btn-primary:hover {
+    background-color: #0056b3;
 }
