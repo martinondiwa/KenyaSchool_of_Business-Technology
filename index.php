@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kenya School of Business & Technology</title>
+    <title>About Us</title>
     <link rel="stylesheet" href="style.css">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -145,8 +145,8 @@ img {
         <nav class="main-nav">
             <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
             <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="about_us.php">About Us</a></li>
+                <li><a href="about_us.php">Home</a></li>
+                <li><a href="index.php">About Us</a></li>
                 <li><a href="Academic_Programmes.php">Programs/Academics</a></li>
                 <li><a href="admissions.php">Admissions</a></li>
                 <li><a href="media_desk.php">Media Desk</a></li>

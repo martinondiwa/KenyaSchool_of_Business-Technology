@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admissions</title>
+    <title>Kenya School of Business & Technology</title>
+
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -12,7 +13,11 @@
 </head>
 
 <body>
-
+    <div>
+        <p>
+            About Us
+        </p>
+    </div>
 
 
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
