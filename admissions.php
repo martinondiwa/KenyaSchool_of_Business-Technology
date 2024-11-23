@@ -114,30 +114,22 @@
             <h2 class="section-title">Admission Requirements</h2>
             <div class="requirements-grid">
                 <div class="requirement-card">
-                    <div class="icon">
-                        <img src="icons/application-form.png" alt="Application Form Icon">
-                    </div>
+                    
                     <h3>Application Form</h3>
                     <p>Submit a completed application form with all required details.</p>
                 </div>
                 <div class="requirement-card">
-                    <div class="icon">
-                        <img src="icons/certificates.png" alt="Certificates Icon">
-                    </div>
+                    
                     <h3>Academic Certificates</h3>
                     <p>Provide certified copies of all relevant academic certificates.</p>
                 </div>
                 <div class="requirement-card">
-                    <div class="icon">
-                        <img src="icons/passport.png" alt="ID/Passport Icon">
-                    </div>
+                   
                     <h3>ID/Passport</h3>
                     <p>Include a copy of your national ID or passport for identification.</p>
                 </div>
                 <div class="requirement-card">
-                    <div class="icon">
-                        <img src="icons/photograph.png" alt="Photograph Icon">
-                    </div>
+                   
                     <h3>Passport-Size Photos</h3>
                     <p>Provide two recent passport-size photographs.</p>
                 </div>
