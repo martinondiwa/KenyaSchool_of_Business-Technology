@@ -156,23 +156,9 @@ img {
                     <li><a href="Home.php">Home</a></li>
                     <li><a href="index.php">About Us</a></li>
                     <li><a href="">
-                            <!-- Default dropend button -->
-                            <div class="btn-group dropend">
-                                <div type="" class=" dropdown-toggle"
-                                    data-bs-toggle="dropdown" aria-expanded="false">
-                                    Dropright
-                                </div>
-                                <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
-                                    <li><a class="dropdown-item active" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                    <li>
-                                        <hr class="dropdown-divider">
-                                    </li>
-                                    <li><a class="dropdown-item" href="#">Separated link</a></li>
-                                </ul>
-                            </div>
-                        </a></li>
+                     
+
+                    </li>
                     <li><a href="admissions.php">Admissions</a></li>
                     <li><a href="media_desk.php">Media Desk</a></li>
                     <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
