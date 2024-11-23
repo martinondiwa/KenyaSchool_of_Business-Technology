@@ -1,0 +1,26 @@
+footer {
+    background-color: #212529; /* Dark background color */
+    color: #f8f9fa; /* Light text color */
+}
+
+footer a {
+    color: #f8f9fa;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #007bff; /* Change link color on hover */
+}
+
+footer h5 {
+    font-weight: bold;
+}
+
+footer .fab {
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+}
+
+footer .fab:hover {
+    color: #007bff; /* Change social icon color on hover */
+}
