@@ -6,6 +6,10 @@
     <title>About Us</title>
 </head>
 <body>
-    
+    <div>
+        <p>
+            About Us
+        </p>
+    </div>
 </body>
 </html>

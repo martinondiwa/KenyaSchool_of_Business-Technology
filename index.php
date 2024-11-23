@@ -146,7 +146,7 @@ img {
             <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
             <ul>
                 <li><a href="#">Home</a></li>
-                <li><a href="#">About Us</a></li>
+                <li><a href="about_us.php">About Us</a></li>
                 <li><a href="#">Programs/Academics</a></li>
                 <li><a href="#">Admissions</a></li>
                 <li><a href="#">Media Desk</a></li>
