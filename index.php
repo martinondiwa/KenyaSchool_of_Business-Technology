@@ -105,7 +105,24 @@ img {
 
 <body>
     <div class="navbar-container">
-       
+        <!-- Top Navbar. -->
+        <div class="top-nav">
+            <div class="left-section">
+                <div class="icon-text">
+                    
+                </div>
+               
+              
+                </div>
+            </div>
+            <div class="right-section">
+               
+                <div class="search-box" id="searchBox">
+                    <input type="text" placeholder="Search..." />
+                </div>
+            </div>
+        </div>
+
         <!-- Main Nav -->
         <nav class="main-nav">
             <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
@@ -258,7 +275,7 @@ img {
 
 
     <?php $IPATH = $_SERVER["C:/xampp/htdocs"]."./Assets/php/"; include($IPATH."footer.html"); ?>
-
+    
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
