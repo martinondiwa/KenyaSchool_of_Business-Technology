@@ -93,16 +93,16 @@
         <div class="container overflow-hidden">
             <div class="row gy-5">
                 <div class="col-6">
-                    <div class="p-3 border bg-light">Custom column padding</div>
+                    <div class="p-3 border bg-light">Affordable</div>
                 </div>
                 <div class="col-6">
-                    <div class="p-3 border bg-light">Custom column padding</div>
+                    <div class="p-3 border bg-light">Accessible</div>
                 </div>
                 <div class="col-6">
-                    <div class="p-3 border bg-light">Custom column padding</div>
+                    <div class="p-3 border bg-light">Flexible</div>
                 </div>
                 <div class="col-6">
-                    <div class="p-3 border bg-light">Custom column padding</div>
+                    <div class="p-3 border bg-light">Transparent</div>
                 </div>
             </div>
         </div>
