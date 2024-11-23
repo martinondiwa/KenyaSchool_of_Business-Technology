@@ -156,26 +156,23 @@ img {
                     <li><a href="Home.php">Home</a></li>
                     <li><a href="index.php">About Us</a></li>
                     <li><a href="Academic_Programmes.php">
-
-                            <div class="btn-group dropend">
-                                <button type="button" class="btn btn-secondary dropdown-toggle"
+                        
+                            <div class="dropdown">
+                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton2"
                                     data-bs-toggle="dropdown" aria-expanded="false">
-                                    Dropright
+                                    Dropdown button
                                 </button>
-                                <ul class="dropdown-menu">
-                                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
-                                        <li><a class="dropdown-item active" href="#">Action</a></li>
-                                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                        <li>
-                                            <hr class="dropdown-divider">
-                                        </li>
-                                        <li><a class="dropdown-item" href="#">Separated link</a></li>
-                                    </ul>
+                                <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
+                                    <li><a class="dropdown-item active" href="#">Action</a></li>
+                                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <li><a class="dropdown-item" href="#">Separated link</a></li>
                                 </ul>
                             </div>
-
-                            </li>
+                        </a></li>
                     <li><a href="admissions.php">Admissions</a></li>
                     <li><a href="media_desk.php">Media Desk</a></li>
                     <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
