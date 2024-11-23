@@ -158,12 +158,18 @@ img {
                     <li><a href="">
                             <!-- Default dropend button -->
                             <div class="btn-group dropend">
-                                <button type="button" class="btn btn-secondary dropdown-toggle"
+                                <div type="" class=" dropdown-toggle"
                                     data-bs-toggle="dropdown" aria-expanded="false">
                                     Dropright
-                                </button>
-                                <ul class="dropdown-menu">
-                                    <!-- Dropdown menu links -->
+                                </div>
+                                <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
+                                    <li><a class="dropdown-item active" href="#">Action</a></li>
+                                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <li><a class="dropdown-item" href="#">Separated link</a></li>
                                 </ul>
                             </div>
                         </a></li>
