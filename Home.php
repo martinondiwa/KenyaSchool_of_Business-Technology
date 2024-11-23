@@ -149,7 +149,7 @@ img {
                 </div>
             </div>
         </div>
-
+        
         <!-- Main Nav-->
         <Nav>
             <nav class="main-nav">
@@ -164,8 +164,8 @@ img {
                 </ul>
             </nav>
         </Nav>
-    </section>
-
+    
+    </div>
     <body>
         <header class="hero-section">
             <div class="hero-content">
