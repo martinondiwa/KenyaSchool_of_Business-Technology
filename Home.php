@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kenya School of Business & Technology</title>
 
+    <link rel="stylesheet" href="homestyle.css">
     <link rel="stylesheet" href="style.css">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -31,7 +32,19 @@
     </Nav>
 </section>
 
-  <div> Main Body</div>
+<body>
+    <header class="hero-section">
+        <div class="hero-content">
+            <h1>Welcome to Kenya School of Business and IT</h1>
+            <p>Empowering the next generation with modern skills in business and technology. Join us to shape a brighter future through education and innovation.</p>
+            <div class="hero-buttons">
+                <a href="#admissions" class="btn">Admissions</a>
+                <a href="#programs" class="btn">Programs</a>
+                <a href="#contact" class="btn">Contact Us</a>
+            </div>
+        </div>
+    </header>
+</body>
 
 
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
