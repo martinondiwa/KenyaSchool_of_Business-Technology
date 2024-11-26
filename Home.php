@@ -103,11 +103,13 @@ img {
 .shadow {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+
 </Style>
 
 <body>
     <div class="navbar-container">
-
+        
         <!-- Top Navbar. -->
         <div class="top-nav">
             <div class="left-section">
@@ -147,7 +149,7 @@ img {
                 </div>
             </div>
         </div>
-
+        
         <!-- Main Nav-->
         <Nav>
             <nav class="main-nav">
@@ -155,30 +157,17 @@ img {
                 <ul>
                     <li><a href="Home.php">Home</a></li>
                     <li><a href="index.php">About Us</a></li>
-                    <li><a href="">
-                            <div class="dropdown">
-                                <a class=" dropdown-toggle" href="#" role=""
-                                    id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Dropdown link
-                                </a>
-
-                                <ul  class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                    <li style = "color:gray"><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                </ul>
-                            </div>
-
-                    </li>
+                    <li><a href="Academic_Programmes.php">
+                        
+                    </a></li>
                     <li><a href="admissions.php">Admissions</a></li>
                     <li><a href="media_desk.php">Media Desk</a></li>
                     <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
                 </ul>
             </nav>
         </Nav>
-
+    
     </div>
-
     <body>
         <header class="hero-section">
             <div class="hero-content">
