@@ -75,6 +75,30 @@
 </head>
 
 <body>
+
+ <!-- Top Navbar -->
+ <div class="navbar-container">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" href="#"><img src="./images/logoo.PNG" alt="Logo" class="logo-img" width="50"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link" href="Home.php">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="index.php">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="Academic_Programmes.php">Programs/Academics</a></li>
+                        <li class="nav-item"><a class="nav-link" href="admissions.php">Admissions</a></li>
+                        <li class="nav-item"><a class="nav-link" href="media_desk.php">Media Desk</a></li>
+                        <li class="nav-item"><a class="btn btn-success" href="contact_us.php">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
     <!-- Hero Section -->
     <section class="hero-section">
         <div class="container">
