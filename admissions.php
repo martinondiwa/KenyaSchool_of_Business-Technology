@@ -16,32 +16,34 @@
 <body>
     <!--Nav Bar-->
     <div class="navbar-container">
-        <Nav>
-            <nav class="main-nav">
-                <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
-                <ul>
-                    <li><a href="Home.php">Home</a></li>
-                    <li><a href="index.php">About Us</a></li>
-                    <li><a href="Academic_Programmes.php">Programs/Academics</a></li>
-                    <li><a href="admissions.php">Admissions</a></li>
-                    <li><a href="media_desk.php">Media Desk</a></li>
-                    <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
-                </ul>
-            </nav>
-        </Nav>
+
+        <nav class="main-nav">
+            <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
+            <ul>
+                <li><a href="Home.php">Home</a></li>
+                <li><a href="index.php">About Us</a></li>
+                <li><a href="Academic_Programmes.php">Programs/Academics</a></li>
+                <li><a href="admissions.php">Admissions</a></li>
+                <li><a href="media_desk.php">Media Desk</a></li>
+                <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
+            </ul>
+        </nav>
+
     </div>
 
     <!-- Header -->
     <section>
-    <header class="header-section">
-        <h1>Admissions</h1>
-        <p>Learn about the application process, tuition, and admission requirements at Kenya School of Business and IT
-        </p>
-    </header>
+
     </section>
 
     <!-- Admissions Process -->
     <section class="admissions-process">
+        <header class="header-section">
+            <h1>Admissions</h1>
+            <p>Learn about the application process, tuition, and admission requirements at Kenya School of Business and
+                IT
+            </p>
+        </header>
         <div class="container">
             <h2 class="section-title">Admissions Process</h2>
             <div class="row">
@@ -158,6 +160,21 @@
     </section>
 
     <?php $IPATH = $_SERVER["C:/xampp/htdocs"]."./Assets/php/"; include($IPATH."footer.html"); ?>
+
+    <!--Smooth Transition Code-->
+    <script>
+    window.transitionToPage = function(href) {
+        document.querySelector('body').style.opacity = 0
+        setTimeout(function() {
+            window.location.href = href
+        }, 500)
+    }
+
+    document.addEventListener('DOMContentLoaded', function(event) {
+        document.querySelector('body').style.opacity = 1
+    })
+    </script>
+
 
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"

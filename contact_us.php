@@ -15,30 +15,31 @@
 
 <body>
     <!--Nav Bar-->
-    <section>
-        <Nav>
-            <nav class="main-nav">
-                <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
-                <ul>
-                    <li><a href="Home.php">Home</a></li>
-                    <li><a href="index.php">About Us</a></li>
-                    <li><a href="Academic_Programmes.php">Programs/Academics</a></li>
-                    <li><a href="admissions.php">Admissions</a></li>
-                    <li><a href="media_desk.php">Media Desk</a></li>
-                    <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
-                </ul>
-            </nav>
-        </Nav>
-    </section>
 
-    <!-- Header -->
+    <Nav>
+        <nav class="main-nav">
+            <label class="logo"><img src="./images/logoo.PNG" alt="Logo" class="logo-img"></label>
+            <ul>
+                <li><a href="Home.php">Home</a></li>
+                <li><a href="index.php">About Us</a></li>
+                <li><a href="Academic_Programmes.php">Programs/Academics</a></li>
+                <li><a href="admissions.php">Admissions</a></li>
+                <li><a href="media_desk.php">Media Desk</a></li>
+                <li><a href="contact_us.php" class="btn btn-success">Contact Us</a></li>
+            </ul>
+        </nav>
+    </Nav>
+
+
+  
+    <!-- Contact Details -->
+    <section class="contact-details">
+          <!-- Header -->
     <header class="header-section">
         <h1>Contact Us</h1>
         <p>We'd love to hear from you! Get in touch with us today.</p>
     </header>
 
-    <!-- Contact Details -->
-    <section class="contact-details">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -90,7 +91,7 @@
     </section>
 
     <?php $IPATH = $_SERVER["C:/xampp/htdocs"]."./Assets/php/"; include($IPATH."footer.html"); ?>
-    
+
     <!-- Bootstrap JS and Popper.js for the dropdown functionality -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
