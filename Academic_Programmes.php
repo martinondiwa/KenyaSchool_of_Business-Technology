@@ -107,8 +107,9 @@
         </div>
     </section>
 
-    <!-- Programs Section -->
-    <section class="container my-5">
+     <!-- Programs Section -->
+     <section class="container my-5">
+        <!-- ICT Skills -->
         <h2 class="text-center mb-4">Training in ICT Skills</h2>
         <table class="table table-bordered table-striped table-hover animated-table">
             <thead class="table-dark">
@@ -118,6 +119,7 @@
                     <th>Details</th>
                     <th>Duration</th>
                     <th>Fees (KES)</th>
+                    <th>Apply Now</th>
                 </tr>
             </thead>
             <tbody>
@@ -127,6 +129,7 @@
                     <td>HTML 5, CSS, Bootstrap/WP</td>
                     <td>1 month</td>
                     <td>25,000</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -134,6 +137,7 @@
                     <td>GitHub, HTML 5, CSS, Bootstrap/WP, PHP & MySQL</td>
                     <td>3 months</td>
                     <td>45,000</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -141,6 +145,7 @@
                     <td>Linux, Git & GitHub, HTML 5, CSS, Bootstrap/WP, PHP & MySQL, Java/Kotlin & Android</td>
                     <td>6 months</td>
                     <td>75,000</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -148,6 +153,7 @@
                     <td>Linux, Git & GitHub, Firebase, React Native, MongoDB, Gemini AI, Vercel, Unit Testing</td>
                     <td>9 months</td>
                     <td>120,000</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -155,12 +161,118 @@
                     <td>Photoshop, InDesign, Adobe Illustrator & Corel Draw</td>
                     <td>1 month</td>
                     <td>30,000</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
                 </tr>
-                <!-- Add other programs here similarly -->
+                <tr>
+                    <td>6</td>
+                    <td>Digital Marketing</td>
+                    <td>WD, ME, SEO, SEM, SMM, EMM & YTM</td>
+                    <td>3 months</td>
+                    <td>60,000</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Digital Entrepreneurship</td>
+                    <td>Linux, Git & GitHub, Web Design, Digital Marketing & E-commerce</td>
+                    <td>6 months</td>
+                    <td>120,000</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Mobile App Development</td>
+                    <td>Firebase, React Native, MongoDB, Angular, Gemini AI, Vercel</td>
+                    <td>3 months</td>
+                    <td>60,000</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Computer Application Packages</td>
+                    <td>(15 packages)</td>
+                    <td>1 month</td>
+                    <td>15,000</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Social Media Marketing</td>
+                    <td>Influencer marketing, social commerce, short-form video content, content creation & optimization</td>
+                    <td>1 month</td>
+                    <td>30,000</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- CPA Revision -->
+        <h2 class="text-center my-4">CPA Revision</h2>
+        <table class="table table-bordered table-striped table-hover animated-table">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Program</th>
+                    <th>Details</th>
+                    <th>Duration</th>
+                    <th>Cost (KES)</th>
+                    <th>Apply Now</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>CPA -1</td>
+                    <td>Foundation level all papers - Online</td>
+                    <td>3 months</td>
+                    <td>4,000 per unit</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>CPA -2</td>
+                    <td>Intermediate level all papers - Online</td>
+                    <td>3 months</td>
+                    <td>4,500 per unit</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
+                 </tr>
+
+
+    </tbody>
+        </table>
+    <!-- Advanced CPA Courses -->
+    <h2 class="text-center my-4">Advanced CPA Courses</h2>
+        <table class="table table-bordered table-striped table-hover animated-table">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Program</th>
+                    <th>Details</th>
+                    <th>Duration</th>
+                    <th>Cost (KES)</th>
+                    <th>Apply Now</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>CPA -3</td>
+                    <td>Advanced level all papers - Online</td>
+                    <td>3 months</td>
+                    <td>5,000 per unit</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>CPA -4</td>
+                    <td>Specialized topics with practical case studies</td>
+                    <td>4 months</td>
+                    <td>6,000 per unit</td>
+                    <td><a href="#" class="btn btn-primary btn-sm">Apply Now</a></td>
+                    </tr>
             </tbody>
         </table>
     </section>
-
     <!-- Footer -->
     <footer class="footer">
         <p>&copy; 2024 Nairobi School of Business and Technology. All Rights Reserved.</p>
