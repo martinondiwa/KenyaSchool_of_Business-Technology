@@ -273,6 +273,36 @@
             </tbody>
         </table>
     </section>
+
+    <!-- Programs Section -->
+    <section class="container my-5">
+        <!-- Training in Technical Skills -->
+        <h2 class="text-center my-4">Training in Technical Skills</h2>
+        <table class="table table-bordered table-striped table-hover animated-table">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Program</th>
+                    <th>Details</th>
+                    <th>Duration</th>
+                    <th>Fees (KES)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Computer Repair Training (CRT)</td>
+                    <td>Hardware & Software</td>
+                    <td>3 months</td>
+                    <td>45,000</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Mobile Repair Training (MRT)</td>
+                    <td>Hardware & Software</td>
+                    <td>3 months</td>
+                    <td>45,000</td>
+                    
     <!-- Footer -->
     <footer class="footer">
         <p>&copy; 2024 Nairobi School of Business and Technology. All Rights Reserved.</p>
