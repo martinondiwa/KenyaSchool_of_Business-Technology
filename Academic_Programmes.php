@@ -302,6 +302,62 @@
                     <td>Hardware & Software</td>
                     <td>3 months</td>
                     <td>45,000</td>
+                    </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Computer and Mobile Repair Training (CRT & MRT)</td>
+                    <td>Hardware & Software</td>
+                    <td>4 months</td>
+                    <td>80,000</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Data Handling Short Courses -->
+        <h2 class="text-center my-4">Data Handling Short Courses</h2>
+        <table class="table table-bordered table-striped table-hover animated-table">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Program</th>
+                    <th>Details</th>
+                    <th>Duration</th>
+                    <th>Fees (KES)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Data Analytics</td>
+                    <td>Data cleaning, data visualization, Data analysis (SQL, R, and Tableau)</td>
+                    <td>4 months</td>
+                    <td>80,000</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Data Science</td>
+                    <td>Data manipulation, visualization, statistical analysis, Advanced statistics, machine learning (Python, R, SQL, Microsoft Azure)</td>
+                    <td>9 months</td>
+                    <td>120,000</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Machine Learning & AI</td>
+                    <td>Supervised learning, unsupervised learning, and neural networks. Pandas, Scikit-learn, and Matplotlib. FastAI library and PyTorch.</td>
+                    <td>4 months</td>
+                    <td>80,000</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Big Data</td>
+                    <td>Hadoop, MapReduce, Spark</td>
+                    <td>4 months</td>
+                    <td>80,000</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Data Visualization</td>
+                    <td>Tableau, Matplotlib, Seaborn, Python libraries</td>
                     
     <!-- Footer -->
     <footer class="footer">
