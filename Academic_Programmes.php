@@ -358,7 +358,26 @@
                     <td>5</td>
                     <td>Data Visualization</td>
                     <td>Tableau, Matplotlib, Seaborn, Python libraries</td>
-                    
+                    <td>3 months</td>
+                    <td>60,000</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>SQL & Databases</td>
+                    <td>Git & GitHub, SQL, queries, data manipulation, managing databases</td>
+                    <td>3 months</td>
+                    <td>60,000</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Business Analytics</td>
+                    <td>Data-driven business decisions, predictive analytics, and risk management</td>
+                    <td>2 months</td>
+                    <td>40,000</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
     <!-- Footer -->
     <footer class="footer">
         <p>&copy; 2024 Nairobi School of Business and Technology. All Rights Reserved.</p>
