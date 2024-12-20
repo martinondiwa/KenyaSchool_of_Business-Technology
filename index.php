@@ -101,7 +101,7 @@
             }
         }
 
-        /* Footer Section */
+        /* Footer */
         .footer {
             background: #0d6efd;
             color: white;
