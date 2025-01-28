@@ -8,7 +8,7 @@
 }
 
 #intro .card-body {
-    background-color: rgba(0, 0, 0, 0.6); /* Dark overlay for better text readability */
+    background-color: rgba(0, 0, 0, 0.6); 
     padding: 3rem;
     border-radius: 10px;
 }
