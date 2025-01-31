@@ -101,7 +101,7 @@
     </div>
   </section>
 
-  <!-- Key Areas Section -->
+  <!-- Key Areas  -->
   <section class="content-section bg-light">
     <div class="container">
       <h2 class="section-title">Our Focus Areas</h2>
