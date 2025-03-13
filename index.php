@@ -141,7 +141,7 @@
     <!-- Hero Section -->
     <section class="hero-section">
         <div class="container">
-            <h1>Welcome to the Nairobi School of Business and Technology</h1>
+            <h1>Welcome to Mackinac School of Business and Technology</h1>
             <p>Empowering the next generation of innovators and leaders through excellence in education.</p>
         </div>
     </section>
@@ -150,7 +150,7 @@
     <section id="about" class="mission-section">
         <div class="container">
             <h2>Our Mission</h2>
-            <p>At the Nairobi School of Business and Technology, our mission is to bridge the gap between academic
+            <p>At Mackinac Tech, our mission is to bridge the gap between academic
                 knowledge and practical skills, equipping our students to thrive in a rapidly evolving world.</p>
         </div>
     </section>
@@ -191,7 +191,7 @@
 
     <!-- Footer -->
     <footer class="footer">
-        <p>&copy; 2024 Nairobi School of Business and Technology. All Rights Reserved.</p>
+        <p>&copy; 2024 Mackinac School of Business and Technology. All Rights Reserved.</p>
     </footer>
 
     <!-- Bootstrap JS -->
