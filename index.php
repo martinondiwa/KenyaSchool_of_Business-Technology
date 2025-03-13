@@ -141,7 +141,7 @@
     <!-- Hero Section -->
     <section class="hero-section">
         <div class="container">
-            <h1>Welcome to Mackinac School of Business and Technology</h1>
+            <h1>Welcome to Mackinac Tech</h1>
             <p>Empowering the next generation of innovators and leaders through excellence in education.</p>
         </div>
     </section>

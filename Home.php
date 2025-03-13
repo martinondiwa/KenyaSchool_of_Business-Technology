@@ -171,7 +171,7 @@ img {
     <body>
         <header class="hero-section">
             <div class="hero-content">
-                <h1>Welcome to Kenya School of Business and IT</h1>
+                <h1>Welcome to Mackinac Tech</h1>
                 <p>Empowering the next generation with modern skills in business and technology. Join us to shape a
                     brighter future through education and innovation.</p>
                 <div class="hero-buttons">
