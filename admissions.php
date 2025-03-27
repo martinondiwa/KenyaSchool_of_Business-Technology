@@ -36,7 +36,7 @@
 
     </section>
 
-    <!-- Admissions Process -->
+    <!-- Admissions  -->
     <section class="admissions-process">
         <header class="header-section">
             <h1>Admissions</h1>
