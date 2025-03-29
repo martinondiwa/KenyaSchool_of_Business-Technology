@@ -6,7 +6,7 @@
 
 nav {
     position: fixed;
-    background-color: #2E8BC0; /* Darker Sky Blue */
+    background-color: #2E8BC0; 
     height: 60px;
     width: 100%;
     z-index: 1;
