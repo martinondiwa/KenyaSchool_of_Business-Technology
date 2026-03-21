@@ -172,7 +172,7 @@ img {
         <header class="hero-section">
             <div class="hero-content">
                 <h1>Welcome to Mackinac Tech</h1>
-                <p>Empowering the next generation with modern skills in business and technology. Join us to shape a
+                <p>Empowering the next generation with modern skills in business, innovation and technology. Join us to shape a
                     brighter future through education and innovation.</p>
                 <div class="hero-buttons">
                     <a href="admissions.php" class="btn">Admissions</a>
