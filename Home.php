@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kenya School of Business & Technology</title>
+    <title>Kenya School of Business and Technology</title>
 
 
     <link rel="stylesheet" href="homestyle.css">
