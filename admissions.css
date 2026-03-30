@@ -3,11 +3,11 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 1;
-    padding: 0;
+    padding: 0.5;
 }
 
 .header-section {
-    background: #007bff;
+    background: #017bff;
     color: white;
     text-align: center;
     padding: 20px 0;
