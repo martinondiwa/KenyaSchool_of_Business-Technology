@@ -150,7 +150,7 @@
     <section id="about" class="mission-section">
         <div class="container">
             <h2>Our Mission</h2>
-            <p>At Mackinac Tech, our mission is to bridge the gap between academic
+            <p>Our mission is to bridge the gap between academic
                 knowledge and practical skills, equipping our students to thrive in a rapidly evolving world.</p>
         </div>
     </section>
