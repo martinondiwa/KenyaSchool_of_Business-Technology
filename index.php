@@ -128,7 +128,7 @@
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="Home.php">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="index.php">About Us</a></li>
-                        <li class="nav-item"><a class="nav-link" href="Academic_Programmes.php">Programs/Academics</a></li>
+                        <li class="nav-item"><a class="nav-link" href="Academic_Programmes.php">Academics</a></li>
                         <li class="nav-item"><a class="nav-link" href="admissions.php">Admissions</a></li>
                         <li class="nav-item"><a class="nav-link" href="media_desk.php">Media Desk</a></li>
                         <li class="nav-item"><a class="btn btn-success" href="contact_us.php">Contact Us</a></li>
