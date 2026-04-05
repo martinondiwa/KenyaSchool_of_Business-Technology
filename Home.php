@@ -62,7 +62,7 @@
 .search-box input[type="text"] {
     padding: 5px;
     width: 200px;
-    color: #333;
+    color: #323;
 }
 </style>
 
